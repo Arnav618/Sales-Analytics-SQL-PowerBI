@@ -4,6 +4,34 @@
 -- =====================================================
 
 -- =====================================================
+-- Basic Data Profiling
+-- =====================================================
+
+-- Check null values in key columns
+
+SELECT 
+    SUM(CASE WHEN order_id IS NULL THEN 1 ELSE 0 END) AS null_orders,
+    SUM(CASE WHEN product_id IS NULL THEN 1 ELSE 0 END) AS null_products,
+    SUM(CASE WHEN customer_id IS NULL THEN 1 ELSE 0 END) AS null_customers,
+    SUM(CASE WHEN sales IS NULL THEN 1 ELSE 0 END) AS null_sales,
+    SUM(CASE WHEN profit IS NULL THEN 1 ELSE 0 END) AS null_profit
+FROM raw_sales;
+
+-- Check negative sales or quantities
+
+SELECT COUNT(*)
+FROM raw_sales
+WHERE sales < 0 OR quantity < 0;
+
+-- Check date range
+
+SELECT
+    MIN(order_date),
+    MAX(order_date)
+FROM raw_sales;
+
+
+-- =====================================================
 -- Investigation 1: Repeated Order Records
 -- =====================================================
 

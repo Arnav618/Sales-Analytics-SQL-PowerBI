@@ -30,6 +30,11 @@ SELECT
     MAX(order_date)
 FROM raw_sales;
 
+-- Finding:
+-- No significant null value or date quality issues were identified.
+-- Further investigation focused on duplicate-looking records
+-- and identifier consistency.
+
 
 -- =====================================================
 -- Investigation 1: Repeated Order Records
@@ -51,7 +56,8 @@ ORDER BY order_id, customer_id, product_id;
 -- Finding:
 -- Repeated order-product combinations were identified.
 -- Sales, quantity, and profit values differed across records,
--- indicating distinct transaction lines rather than duplicate records.
+-- therefore these rows were retained as distinct transaction lines
+-- rather than treated as duplicate records.
 
 -- =====================================================
 -- Investigation 2: Product ID Mapping Consistency

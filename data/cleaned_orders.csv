@@ -1,0 +1,1001 @@
+row_id,order_id,order_date,ship_date,ship_mode,country,city,state,postal_code,region,customer_id
+1,CA-2016-152156,2016-11-08,2016-11-11,"Second Class","United States",Henderson,Kentucky,42420,South,CG-12520
+2,CA-2016-138688,2016-06-12,2016-06-16,"Second Class","United States","Los Angeles",California,90036,West,DV-13045
+3,US-2015-108966,2015-10-11,2015-10-18,"Standard Class","United States","Fort Lauderdale",Florida,33311,South,SO-20335
+4,CA-2014-115812,2014-06-09,2014-06-14,"Standard Class","United States","Los Angeles",California,90032,West,BH-11710
+5,CA-2017-114412,2017-04-15,2017-04-20,"Standard Class","United States",Concord,"North Carolina",28027,South,AA-10480
+6,CA-2016-161389,2016-12-05,2016-12-10,"Standard Class","United States",Seattle,Washington,98103,West,IM-15070
+7,US-2015-118983,2015-11-22,2015-11-26,"Standard Class","United States","Fort Worth",Texas,76106,Central,HP-14815
+8,CA-2014-105893,2014-11-11,2014-11-18,"Standard Class","United States",Madison,Wisconsin,53711,Central,PK-19075
+9,CA-2014-167164,2014-05-13,2014-05-15,"Second Class","United States","West Jordan",Utah,84084,West,AG-10270
+10,CA-2014-143336,2014-08-27,2014-09-01,"Second Class","United States","San Francisco",California,94109,West,ZD-21925
+11,CA-2016-137330,2016-12-09,2016-12-13,"Standard Class","United States",Fremont,Nebraska,68025,Central,KB-16585
+12,US-2017-156909,2017-07-16,2017-07-18,"Second Class","United States",Philadelphia,Pennsylvania,19140,East,SF-20065
+13,CA-2015-106320,2015-09-25,2015-09-30,"Standard Class","United States",Orem,Utah,84057,West,EB-13870
+14,CA-2016-121755,2016-01-16,2016-01-20,"Second Class","United States","Los Angeles",California,90049,West,EH-13945
+15,US-2015-150630,2015-09-17,2015-09-21,"Standard Class","United States",Philadelphia,Pennsylvania,19140,East,TB-21520
+16,CA-2017-107727,2017-10-19,2017-10-23,"Second Class","United States",Houston,Texas,77095,Central,MA-17560
+17,CA-2016-117590,2016-12-08,2016-12-10,"First Class","United States",Richardson,Texas,75080,Central,GH-14485
+18,CA-2015-117415,2015-12-27,2015-12-31,"Standard Class","United States",Houston,Texas,77041,Central,SN-20710
+19,CA-2017-120999,2017-09-10,2017-09-15,"Standard Class","United States",Naperville,Illinois,60540,Central,LC-16930
+20,CA-2016-101343,2016-07-17,2016-07-22,"Standard Class","United States","Los Angeles",California,90049,West,RA-19885
+21,CA-2017-139619,2017-09-19,2017-09-23,"Standard Class","United States",Melbourne,Florida,32935,South,ES-14080
+22,CA-2016-118255,2016-03-11,2016-03-13,"First Class","United States",Eagan,Minnesota,55122,Central,ON-18715
+23,CA-2014-146703,2014-10-20,2014-10-25,"Second Class","United States",Westland,Michigan,48185,Central,PO-18865
+24,CA-2016-169194,2016-06-20,2016-06-25,"Standard Class","United States",Dover,Delaware,19901,East,LH-16900
+25,CA-2015-115742,2015-04-18,2015-04-22,"Standard Class","United States","New Albany",Indiana,47150,Central,DP-13000
+26,CA-2016-105816,2016-12-11,2016-12-17,"Standard Class","United States","New York City","New York",10024,East,JM-15265
+27,CA-2016-111682,2016-06-17,2016-06-18,"First Class","United States",Troy,"New York",12180,East,TB-21055
+28,CA-2015-135545,2015-11-24,2015-11-30,"Standard Class","United States","Los Angeles",California,90004,West,KM-16720
+29,US-2015-164175,2015-04-30,2015-05-05,"Standard Class","United States",Chicago,Illinois,60610,Central,PS-18970
+30,CA-2014-106376,2014-12-05,2014-12-10,"Standard Class","United States",Gilbert,Arizona,85234,West,BS-11590
+31,CA-2016-119823,2016-06-04,2016-06-06,"First Class","United States",Springfield,Virginia,22153,South,KD-16270
+32,CA-2016-106075,2016-09-18,2016-09-23,"Standard Class","United States","New York City","New York",10009,East,HM-14980
+33,CA-2017-114440,2017-09-14,2017-09-17,"Second Class","United States",Jackson,Michigan,49201,Central,TB-21520
+34,US-2015-134026,2015-04-26,2015-05-02,"Standard Class","United States",Memphis,Tennessee,38109,South,JE-15745
+35,US-2017-118038,2017-12-09,2017-12-11,"First Class","United States",Houston,Texas,77041,Central,KB-16600
+36,US-2014-147606,2014-11-26,2014-12-01,"Second Class","United States",Houston,Texas,77070,Central,JE-15745
+37,CA-2016-127208,2016-06-12,2016-06-15,"First Class","United States",Decatur,Alabama,35601,South,SC-20770
+38,CA-2014-139451,2014-10-12,2014-10-16,"Standard Class","United States","San Francisco",California,94122,West,DN-13690
+39,CA-2015-149734,2015-09-03,2015-09-08,"Standard Class","United States",Durham,"North Carolina",27707,South,JC-16105
+40,US-2017-119662,2017-11-13,2017-11-16,"First Class","United States",Chicago,Illinois,60623,Central,CS-12400
+41,CA-2017-140088,2017-05-28,2017-05-30,"Second Class","United States",Columbia,"South Carolina",29203,South,PO-18865
+42,CA-2017-155558,2017-10-26,2017-11-02,"Standard Class","United States",Rochester,Minnesota,55901,Central,PG-18895
+43,CA-2016-159695,2016-04-05,2016-04-10,"Second Class","United States",Houston,Texas,77095,Central,GM-14455
+44,CA-2016-109806,2016-09-17,2016-09-22,"Standard Class","United States","Los Angeles",California,90036,West,JS-15685
+45,CA-2015-149587,2015-01-31,2015-02-05,"Second Class","United States",Minneapolis,Minnesota,55407,Central,KB-16315
+46,US-2017-109484,2017-11-06,2017-11-12,"Standard Class","United States",Portland,Oregon,97206,West,RB-19705
+47,CA-2017-161018,2017-11-09,2017-11-11,"Second Class","United States","New York City","New York",10009,East,PN-18775
+48,CA-2017-157833,2017-06-17,2017-06-20,"First Class","United States","San Francisco",California,94122,West,KD-16345
+49,CA-2016-149223,2016-09-06,2016-09-11,"Standard Class","United States","Saint Paul",Minnesota,55106,Central,ER-13855
+50,CA-2016-158568,2016-08-29,2016-09-02,"Standard Class","United States",Chicago,Illinois,60610,Central,RB-19465
+51,CA-2016-129903,2016-12-01,2016-12-04,"Second Class","United States",Rochester,Minnesota,55901,Central,GZ-14470
+52,US-2015-156867,2015-11-13,2015-11-17,"Standard Class","United States",Aurora,Colorado,80013,West,LC-16870
+53,CA-2017-119004,2017-11-23,2017-11-28,"Standard Class","United States",Charlotte,"North Carolina",28205,South,JM-15250
+54,CA-2015-129476,2015-10-15,2015-10-20,"Standard Class","United States","Orland Park",Illinois,60462,Central,PA-19060
+55,CA-2017-146780,2017-12-25,2017-12-30,"Standard Class","United States","New York City","New York",10035,East,CV-12805
+56,CA-2016-128867,2016-11-03,2016-11-10,"Standard Class","United States",Urbandale,Iowa,50322,Central,CL-12565
+57,CA-2014-115259,2014-08-25,2014-08-27,"Second Class","United States",Columbus,Ohio,43229,East,RC-19960
+58,CA-2015-110457,2015-03-02,2015-03-06,"Standard Class","United States",Seattle,Washington,98103,West,DK-13090
+59,US-2015-136476,2015-04-05,2015-04-10,"Standard Class","United States",Bristol,Tennessee,37620,South,GG-14650
+60,CA-2016-103730,2016-06-12,2016-06-15,"First Class","United States",Wilmington,Delaware,19805,East,SC-20725
+61,US-2014-152030,2014-12-26,2014-12-28,"Second Class","United States",Houston,Texas,77041,Central,AD-10180
+62,US-2014-134614,2014-09-20,2014-09-25,"Standard Class","United States",Bloomington,Illinois,61701,Central,PF-19165
+63,US-2017-107272,2017-11-05,2017-11-12,"Standard Class","United States",Phoenix,Arizona,85023,West,TS-21610
+64,US-2016-125969,2016-11-06,2016-11-10,"Second Class","United States","Los Angeles",California,90004,West,LS-16975
+65,US-2017-164147,2017-02-02,2017-02-05,"First Class","United States",Columbus,Ohio,43229,East,DW-13585
+66,CA-2016-145583,2016-10-13,2016-10-19,"Standard Class","United States",Roseville,California,95661,West,LC-16885
+67,CA-2016-110366,2016-09-05,2016-09-07,"Second Class","United States",Philadelphia,Pennsylvania,19140,East,JD-15895
+68,CA-2017-106180,2017-09-18,2017-09-23,"Standard Class","United States","San Francisco",California,94122,West,SH-19975
+69,CA-2017-155376,2017-12-22,2017-12-27,"Standard Class","United States",Independence,Missouri,64055,Central,SG-20080
+70,CA-2015-110744,2015-09-07,2015-09-12,"Standard Class","United States",Pasadena,California,91104,West,HA-14920
+71,CA-2014-110072,2014-10-22,2014-10-28,"Standard Class","United States",Newark,Ohio,43055,East,MG-17680
+72,CA-2016-114489,2016-12-05,2016-12-09,"Standard Class","United States",Franklin,Wisconsin,53132,Central,JE-16165
+73,CA-2016-158834,2016-03-13,2016-03-16,"First Class","United States",Scottsdale,Arizona,85254,West,TW-21025
+74,CA-2015-124919,2015-05-31,2015-06-02,"First Class","United States","San Jose",California,95123,West,SP-20650
+75,CA-2015-118948,2015-05-28,2015-06-03,"Standard Class","United States",Seattle,Washington,98105,West,NK-18490
+76,CA-2014-104269,2014-03-01,2014-03-06,"Second Class","United States",Seattle,Washington,98115,West,DB-13060
+77,CA-2016-114104,2016-11-20,2016-11-24,"Standard Class","United States",Edmond,Oklahoma,73034,Central,NP-18670
+78,CA-2016-162733,2016-05-11,2016-05-12,"First Class","United States","Los Angeles",California,90045,West,TT-21070
+79,CA-2015-119697,2015-12-28,2015-12-31,"Second Class","United States",Philadelphia,Pennsylvania,19134,East,EM-13960
+80,CA-2016-154508,2016-11-16,2016-11-20,"Standard Class","United States",Carlsbad,"New Mexico",88220,West,RD-19900
+81,CA-2016-113817,2016-11-07,2016-11-11,"Standard Class","United States",Seattle,Washington,98115,West,MJ-17740
+82,CA-2014-139892,2014-09-08,2014-09-12,"Standard Class","United States","San Antonio",Texas,78207,Central,BM-11140
+83,CA-2014-118962,2014-08-05,2014-08-09,"Standard Class","United States","Los Angeles",California,90004,West,CS-12130
+84,US-2014-100853,2014-09-14,2014-09-19,"Standard Class","United States",Chicago,Illinois,60623,Central,JB-15400
+85,US-2017-152366,2017-04-21,2017-04-25,"Second Class","United States",Houston,Texas,77036,Central,SJ-20500
+86,US-2015-101511,2015-11-21,2015-11-23,"Second Class","United States",Newark,Ohio,43055,East,JE-15745
+87,CA-2015-137225,2015-12-15,2015-12-19,"Standard Class","United States","New York City","New York",10009,East,JK-15640
+88,CA-2014-166191,2014-12-05,2014-12-09,"Second Class","United States",Decatur,Illinois,62521,Central,DK-13150
+89,CA-2014-158274,2014-11-19,2014-11-24,"Second Class","United States",Monroe,Louisiana,71203,South,RM-19675
+90,CA-2016-105018,2016-11-28,2016-12-02,"Standard Class","United States",Fairfield,Connecticut,6824,East,SK-19990
+91,CA-2014-123260,2014-08-26,2014-08-30,"Standard Class","United States","Los Angeles",California,90032,West,FM-14290
+92,CA-2016-157000,2016-07-16,2016-07-22,"Standard Class","United States","Grand Prairie",Texas,75051,Central,AM-10360
+93,CA-2015-102281,2015-10-12,2015-10-14,"First Class","United States","New York City","New York",10035,East,MP-17470
+94,CA-2015-131457,2015-10-31,2015-11-06,"Standard Class","United States",Redlands,California,92374,West,MZ-17515
+95,CA-2014-140004,2014-03-21,2014-03-25,"Standard Class","United States",Hamilton,Ohio,45011,East,CB-12025
+96,CA-2017-107720,2017-11-06,2017-11-13,"Standard Class","United States",Westfield,"New Jersey",7090,East,VM-21685
+97,US-2017-124303,2017-07-06,2017-07-13,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East,FH-14365
+98,CA-2017-105074,2017-06-24,2017-06-29,"Standard Class","United States",Akron,Ohio,44312,East,MB-17305
+99,CA-2014-133690,2014-08-03,2014-08-05,"First Class","United States",Denver,Colorado,80219,West,BS-11755
+100,US-2017-116701,2017-12-17,2017-12-21,"Second Class","United States",Dallas,Texas,75220,Central,LC-17140
+101,CA-2017-126382,2017-06-03,2017-06-07,"Standard Class","United States",Franklin,Tennessee,37064,South,HK-14890
+102,CA-2017-108329,2017-12-09,2017-12-14,"Standard Class","United States",Whittier,California,90604,West,LE-16810
+103,CA-2017-135860,2017-12-01,2017-12-07,"Standard Class","United States",Saginaw,Michigan,48601,Central,JH-15985
+104,CA-2015-101007,2015-02-09,2015-02-13,"Second Class","United States",Dallas,Texas,75220,Central,MS-17980
+105,CA-2015-146262,2015-01-02,2015-01-09,"Standard Class","United States",Medina,Ohio,44256,East,VW-21775
+106,CA-2016-130162,2016-10-28,2016-11-01,"Standard Class","United States","Los Angeles",California,90032,West,JH-15910
+107,CA-2015-169397,2015-12-24,2015-12-27,"First Class","United States",Dublin,Ohio,43017,East,JB-15925
+108,CA-2015-163055,2015-08-09,2015-08-16,"Standard Class","United States",Detroit,Michigan,48227,Central,DS-13180
+109,US-2015-145436,2015-02-28,2015-03-04,"Standard Class","United States",Columbia,Tennessee,38401,South,VD-21670
+110,US-2014-156216,2014-09-13,2014-09-17,"Standard Class","United States",Charlotte,"North Carolina",28205,South,EA-14035
+111,US-2017-100930,2017-04-07,2017-04-12,"Standard Class","United States",Tampa,Florida,33614,South,CS-12400
+112,CA-2017-160514,2017-11-12,2017-11-16,"Standard Class","United States","Santa Clara",California,95051,West,DB-13120
+113,CA-2016-157749,2016-06-04,2016-06-09,"Second Class","United States",Chicago,Illinois,60610,Central,KL-16645
+114,CA-2014-131926,2014-06-01,2014-06-06,"Second Class","United States",Lakeville,Minnesota,55044,Central,DW-13480
+115,CA-2016-154739,2016-12-10,2016-12-15,"Second Class","United States","San Francisco",California,94109,West,LH-17155
+116,CA-2016-145625,2016-09-11,2016-09-17,"Standard Class","United States","San Diego",California,92037,West,KC-16540
+117,CA-2016-146941,2016-12-10,2016-12-13,"First Class","United States","New York City","New York",10024,East,DL-13315
+118,US-2015-159982,2015-11-28,2015-12-04,"Standard Class","United States",Chicago,Illinois,60623,Central,DR-12880
+119,CA-2017-163139,2017-12-01,2017-12-03,"Second Class","United States","New York City","New York",10009,East,CC-12670
+120,US-2017-155299,2017-06-08,2017-06-12,"Standard Class","United States",Pasadena,Texas,77506,Central,Dl-13600
+121,US-2014-106992,2014-09-19,2014-09-21,"Second Class","United States",Houston,Texas,77036,Central,SB-20290
+122,CA-2016-125318,2016-06-06,2016-06-13,"Standard Class","United States",Chicago,Illinois,60610,Central,RC-19825
+123,CA-2015-155040,2015-11-10,2015-11-15,"Standard Class","United States",Brentwood,California,94513,West,AH-10210
+124,CA-2017-136826,2017-06-16,2017-06-20,"Standard Class","United States","Chapel Hill","North Carolina",27514,South,CB-12535
+125,CA-2016-111010,2016-01-22,2016-01-28,"Standard Class","United States",Morristown,"New Jersey",7960,East,PG-18895
+126,US-2017-145366,2017-12-09,2017-12-13,"Standard Class","United States",Cincinnati,Ohio,45231,East,CA-12310
+127,CA-2017-163979,2017-12-28,2018-01-02,"Second Class","United States","San Francisco",California,94110,West,KH-16690
+128,CA-2015-155334,2015-07-30,2015-07-31,"First Class","United States","San Francisco",California,94109,West,HA-14920
+129,CA-2017-118136,2017-09-16,2017-09-17,"First Class","United States",Inglewood,California,90301,West,BB-10990
+130,CA-2017-132976,2017-10-13,2017-10-17,"Standard Class","United States",Philadelphia,Pennsylvania,19140,East,AG-10495
+131,US-2015-161991,2015-09-26,2015-09-28,"Second Class","United States",Houston,Texas,77070,Central,SC-20725
+132,CA-2015-130890,2015-11-02,2015-11-06,"Standard Class","United States","Los Angeles",California,90004,West,JO-15280
+133,CA-2015-130883,2015-09-26,2015-10-02,"Standard Class","United States",Portland,Oregon,97206,West,TB-21520
+134,CA-2016-112697,2016-12-18,2016-12-20,"Second Class","United States",Tamarac,Florida,33319,South,AH-10195
+135,CA-2016-110772,2016-11-20,2016-11-24,"Second Class","United States",Columbus,Ohio,43229,East,NZ-18565
+136,CA-2014-111451,2014-12-26,2014-12-28,"First Class","United States","Colorado Springs",Colorado,80906,West,KL-16555
+137,CA-2016-142545,2016-10-28,2016-11-03,"Standard Class","United States",Belleville,"New Jersey",7109,East,JD-15895
+138,US-2017-152380,2017-11-19,2017-11-23,"Standard Class","United States",Chicago,Illinois,60623,Central,JH-15910
+139,CA-2015-144253,2015-05-04,2015-05-09,"Second Class","United States","New York City","New York",10024,East,AS-10225
+140,CA-2014-130960,2014-12-30,2015-01-04,"Standard Class","United States",Taylor,Michigan,48180,Central,KB-16600
+141,CA-2014-111003,2014-06-01,2014-06-06,"Standard Class","United States",Lakewood,"New Jersey",8701,East,CR-12625
+142,CA-2017-126774,2017-04-15,2017-04-17,"First Class","United States",Arlington,Virginia,22204,South,SH-20395
+143,CA-2016-142902,2016-09-12,2016-09-14,"Second Class","United States",Arvada,Colorado,80004,West,BP-11185
+144,CA-2014-120887,2014-09-27,2014-10-03,"Standard Class","United States",Hackensack,"New Jersey",7601,East,TS-21205
+145,CA-2014-167850,2014-08-09,2014-08-16,"Standard Class","United States","Saint Petersburg",Florida,33710,South,AG-10525
+146,CA-2014-164259,2014-12-28,2014-12-30,"First Class","United States",Philadelphia,Pennsylvania,19143,East,SP-20860
+147,CA-2014-164973,2014-11-04,2014-11-09,"Standard Class","United States","New York City","New York",10024,East,NM-18445
+148,CA-2014-156601,2014-09-19,2014-09-24,"Standard Class","United States","Long Beach",California,90805,West,FA-14230
+149,CA-2016-162138,2016-04-23,2016-04-27,"Standard Class","United States",Hesperia,California,92345,West,GK-14620
+150,CA-2017-153339,2017-11-03,2017-11-05,"Second Class","United States",Murfreesboro,Tennessee,37130,South,DJ-13510
+151,US-2016-141544,2016-08-30,2016-09-01,"First Class","United States",Philadelphia,Pennsylvania,19143,East,PO-18850
+152,US-2016-150147,2016-04-25,2016-04-29,"Second Class","United States",Philadelphia,Pennsylvania,19134,East,JL-15850
+153,CA-2015-137946,2015-09-01,2015-09-04,"Second Class","United States","Los Angeles",California,90045,West,DB-13615
+154,CA-2014-129924,2014-07-12,2014-07-17,"Standard Class","United States","San Francisco",California,94122,West,AC-10420
+155,CA-2014-122336,2014-04-13,2014-04-17,"Second Class","United States",Philadelphia,Pennsylvania,19140,East,JD-15895
+156,US-2015-120712,2015-12-20,2015-12-24,"Standard Class","United States",Austin,Texas,78745,Central,CS-12130
+157,CA-2017-169901,2017-06-15,2017-06-19,"Standard Class","United States","San Francisco",California,94122,West,CC-12550
+158,CA-2017-134306,2017-07-08,2017-07-12,"Standard Class","United States",Lowell,Massachusetts,1852,East,TD-20995
+159,CA-2016-129714,2016-09-01,2016-09-03,"First Class","United States","New York City","New York",10009,East,AB-10060
+160,CA-2016-138520,2016-04-08,2016-04-13,"Standard Class","United States","New York City","New York",10035,East,JL-15505
+161,CA-2016-130001,2016-04-23,2016-04-28,"Standard Class","United States",Charlotte,"North Carolina",28205,South,HK-14890
+162,CA-2017-155698,2017-03-08,2017-03-11,"First Class","United States",Columbus,Georgia,31907,South,VB-21745
+163,CA-2017-144904,2017-09-25,2017-10-01,"Standard Class","United States","New York City","New York",10009,East,KW-16435
+164,CA-2014-123344,2014-09-24,2014-09-29,"Standard Class","United States","San Francisco",California,94109,West,JD-16060
+165,CA-2016-155516,2016-10-21,2016-10-21,"Same Day","United States",Manchester,Connecticut,6040,East,MK-17905
+166,CA-2017-104745,2017-05-29,2017-06-04,"Standard Class","United States",Harlingen,Texas,78550,Central,GT-14755
+167,US-2014-119137,2014-07-23,2014-07-27,"Standard Class","United States",Tucson,Arizona,85705,West,AG-10900
+168,US-2016-134656,2016-09-28,2016-10-01,"First Class","United States",Quincy,Illinois,62301,Central,MM-18280
+169,US-2017-134481,2017-08-27,2017-09-01,"Standard Class","United States",Franklin,Massachusetts,2038,East,AR-10405
+170,CA-2015-130792,2015-04-28,2015-05-05,"Standard Class","United States",Houston,Texas,77095,Central,RA-19915
+171,CA-2016-134775,2016-10-28,2016-10-29,"First Class","United States","San Francisco",California,94109,West,AS-10285
+172,CA-2015-125395,2015-06-26,2015-06-29,"Second Class","United States",Taylor,Michigan,48180,Central,LA-16780
+173,US-2015-168935,2015-11-27,2015-12-02,"Standard Class","United States","Pembroke Pines",Florida,33024,South,DO-13435
+174,CA-2015-122756,2015-12-03,2015-12-07,"Standard Class","United States",Philadelphia,Pennsylvania,19140,East,DK-13225
+175,CA-2014-115973,2014-11-24,2014-11-26,"First Class","United States",Cincinnati,Ohio,45231,East,NG-18430
+176,CA-2017-101798,2017-12-11,2017-12-15,"Standard Class","United States","New York City","New York",10009,East,MV-18190
+177,US-2014-135972,2014-09-21,2014-09-23,"Second Class","United States","Des Moines",Washington,98198,West,JG-15115
+178,US-2014-134971,2014-06-07,2014-06-10,"Second Class","United States",Peoria,Illinois,61604,Central,BP-11095
+179,CA-2017-102946,2017-06-30,2017-07-05,"Standard Class","United States","Las Vegas",Nevada,89115,West,VP-21730
+180,CA-2017-165603,2017-10-17,2017-10-19,"Second Class","United States",Warwick,"Rhode Island",2886,East,SS-20140
+181,CA-2015-122259,2015-10-31,2015-11-04,"Standard Class","United States",Jackson,Michigan,49201,Central,HP-14815
+182,CA-2016-108987,2016-09-08,2016-09-10,"Second Class","United States",Houston,Texas,77036,Central,AG-10675
+183,CA-2014-113166,2014-12-24,2014-12-26,"First Class","United States",Miami,Florida,33180,South,LF-17185
+184,CA-2014-155208,2014-04-16,2014-04-20,"Standard Class","United States",Wilmington,"North Carolina",28403,South,SP-20650
+185,CA-2017-117933,2017-12-24,2017-12-29,"Standard Class","United States","New York City","New York",10024,East,RF-19840
+186,CA-2017-117457,2017-12-08,2017-12-12,"Standard Class","United States","San Francisco",California,94110,West,KH-16510
+187,CA-2017-142636,2017-11-03,2017-11-07,"Standard Class","United States",Seattle,Washington,98105,West,KC-16675
+188,CA-2017-122105,2017-06-24,2017-06-28,"Standard Class","United States","Huntington Beach",California,92646,West,CJ-12010
+189,CA-2016-148796,2016-04-14,2016-04-18,"Standard Class","United States","Los Angeles",California,90004,West,PB-19150
+190,CA-2017-154816,2017-11-06,2017-11-10,"Standard Class","United States",Richmond,Kentucky,40475,South,VB-21745
+191,CA-2017-110478,2017-03-04,2017-03-09,"Standard Class","United States","Los Angeles",California,90045,West,SP-20860
+192,CA-2014-142048,2014-06-22,2014-06-25,"First Class","United States",Louisville,Colorado,80027,West,JE-15745
+193,CA-2017-125388,2017-10-19,2017-10-23,"Standard Class","United States",Lawrence,Massachusetts,1841,East,MP-17965
+194,CA-2017-155705,2017-08-21,2017-08-23,"Second Class","United States",Jackson,Mississippi,39212,South,NF-18385
+195,CA-2017-149160,2017-11-23,2017-11-26,"Second Class","United States",Canton,Michigan,48187,Central,JM-15265
+196,CA-2014-101476,2014-09-12,2014-09-13,"First Class","United States","New Rochelle","New York",10801,East,SD-20485
+197,CA-2017-152275,2017-10-01,2017-10-08,"Standard Class","United States","San Antonio",Texas,78207,Central,KH-16630
+198,US-2016-123750,2016-04-15,2016-04-21,"Standard Class","United States",Gastonia,"North Carolina",28052,South,RB-19795
+199,CA-2016-127369,2016-06-06,2016-06-07,"First Class","United States",Lowell,Massachusetts,1852,East,DB-13060
+200,US-2014-150574,2014-12-19,2014-12-25,"Standard Class","United States",Jacksonville,Florida,32216,South,MK-18160
+201,CA-2016-147375,2016-06-12,2016-06-14,"Second Class","United States",Chicago,Illinois,60623,Central,PO-19180
+202,CA-2017-130043,2017-09-15,2017-09-19,"Standard Class","United States",Houston,Texas,77070,Central,BB-11545
+203,CA-2017-157252,2017-01-20,2017-01-23,"Second Class","United States","New York City","New York",10024,East,CV-12805
+204,CA-2016-115756,2016-09-05,2016-09-07,"Second Class","United States",Detroit,Michigan,48227,Central,PK-19075
+205,CA-2017-154214,2017-03-20,2017-03-25,"Second Class","United States",Columbus,Indiana,47201,Central,TB-21595
+206,CA-2016-166674,2016-04-01,2016-04-03,"Second Class","United States",Auburn,"New York",13021,East,RB-19360
+207,CA-2017-147277,2017-10-20,2017-10-24,"Standard Class","United States",Akron,Ohio,44312,East,EB-13705
+208,CA-2016-100153,2016-12-13,2016-12-17,"Standard Class","United States",Norman,Oklahoma,73071,Central,KH-16630
+209,US-2014-110674,2014-02-12,2014-02-18,"Standard Class","United States",Concord,California,94521,West,SC-20095
+210,US-2016-157945,2016-09-26,2016-10-01,"Standard Class","United States",Decatur,Illinois,62521,Central,NF-18385
+211,CA-2015-109638,2015-12-15,2015-12-22,"Standard Class","United States",Seattle,Washington,98115,West,JH-15985
+212,CA-2016-109869,2016-04-22,2016-04-29,"Standard Class","United States",Phoenix,Arizona,85023,West,TN-21040
+213,US-2015-101399,2015-01-17,2015-01-24,"Standard Class","United States","Park Ridge",Illinois,60068,Central,JS-15940
+214,CA-2017-154907,2017-03-31,2017-04-04,"Standard Class","United States",Amarillo,Texas,79109,Central,DS-13180
+215,US-2016-100419,2016-12-16,2016-12-20,"Second Class","United States",Chicago,Illinois,60610,Central,CC-12670
+216,CA-2015-154144,2015-12-20,2015-12-24,"Standard Class","United States",Lindenhurst,"New York",11757,East,MH-17785
+217,CA-2014-144666,2014-11-09,2014-11-11,"Second Class","United States","San Francisco",California,94110,West,JP-15520
+218,CA-2016-103891,2016-07-12,2016-07-19,"Standard Class","United States","Los Angeles",California,90008,West,KH-16690
+219,CA-2016-152632,2016-10-27,2016-11-02,"Standard Class","United States",Troy,"New York",12180,East,JE-15475
+220,CA-2016-100790,2016-06-26,2016-07-02,"Standard Class","United States","New York City","New York",10024,East,JG-15805
+221,CA-2014-134677,2014-10-06,2014-10-10,"Standard Class","United States","San Diego",California,92024,West,XP-21865
+222,CA-2014-127691,2014-07-22,2014-07-27,"Standard Class","United States","New York City","New York",10024,East,EM-14065
+223,CA-2017-140963,2017-06-10,2017-06-13,"First Class","United States","Los Angeles",California,90045,West,MT-18070
+224,CA-2014-154627,2014-10-29,2014-10-31,"First Class","United States",Chicago,Illinois,60610,Central,SA-20830
+225,CA-2014-133753,2014-06-09,2014-06-13,"Second Class","United States",Huntsville,Texas,77340,Central,CW-11905
+226,CA-2014-113362,2014-09-14,2014-09-19,"Standard Class","United States",Rochester,"New York",14609,East,AJ-10960
+227,CA-2016-169166,2016-05-09,2016-05-14,"Standard Class","United States",Seattle,Washington,98115,West,SS-20590
+228,US-2016-120929,2016-03-18,2016-03-21,"Second Class","United States",Memphis,Tennessee,38109,South,RO-19780
+229,CA-2015-134782,2015-12-27,2015-12-31,"Standard Class","United States",Fayetteville,Arkansas,72701,South,MD-17350
+230,CA-2016-126158,2016-07-25,2016-07-31,"Standard Class","United States","Costa Mesa",California,92627,West,SC-20095
+231,US-2016-105578,2016-05-30,2016-06-04,"Standard Class","United States",Parker,Colorado,80134,West,MY-17380
+232,CA-2017-134978,2017-11-12,2017-11-15,"Second Class","United States","New York City","New York",10024,East,EB-13705
+233,CA-2015-145352,2015-03-16,2015-03-22,"Standard Class","United States",Atlanta,Georgia,30318,South,CM-12385
+234,CA-2017-135307,2017-11-26,2017-11-27,"First Class","United States",Gladstone,Missouri,64118,Central,LS-17245
+235,CA-2016-106341,2016-10-20,2016-10-23,"First Class","United States",Newark,Ohio,43055,East,LF-17185
+236,CA-2017-163405,2017-12-21,2017-12-25,"Standard Class","United States","Los Angeles",California,90049,West,BN-11515
+237,CA-2017-127432,2017-01-22,2017-01-27,"Standard Class","United States","Great Falls",Montana,59405,West,AD-10180
+238,CA-2015-157812,2015-03-22,2015-03-26,"Standard Class","United States",Houston,Texas,77041,Central,DB-13210
+239,CA-2017-145142,2017-01-23,2017-01-25,"First Class","United States",Detroit,Michigan,48234,Central,MC-17605
+240,US-2016-139486,2016-05-21,2016-05-23,"First Class","United States","Los Angeles",California,90032,West,LH-17155
+241,CA-2015-158792,2015-12-26,2016-01-02,"Standard Class","United States",Lawrence,Massachusetts,1841,East,BD-11605
+242,CA-2017-113558,2017-10-21,2017-10-26,"Standard Class","United States",Lakeland,Florida,33801,South,PH-18790
+243,US-2015-138303,2015-09-03,2015-09-07,"Standard Class","United States",Philadelphia,Pennsylvania,19134,East,MG-18145
+244,CA-2015-102848,2015-11-07,2015-11-09,"Second Class","United States","Los Angeles",California,90036,West,KB-16240
+245,US-2017-129441,2017-09-07,2017-09-11,"Standard Class","United States","Los Angeles",California,90032,West,JC-15340
+246,CA-2016-168753,2016-05-29,2016-06-01,"Second Class","United States",Montgomery,Alabama,36116,South,RL-19615
+247,CA-2016-126613,2016-07-10,2016-07-16,"Standard Class","United States",Mesa,Arizona,85204,West,AA-10375
+248,US-2017-122637,2017-09-03,2017-09-08,"Second Class","United States",Chicago,Illinois,60653,Central,EP-13915
+249,CA-2015-147851,2015-12-03,2015-12-08,"Standard Class","United States","New York City","New York",10009,East,MP-17470
+250,CA-2015-134894,2015-12-07,2015-12-11,"Standard Class","United States",Henderson,Kentucky,42420,South,DK-12985
+251,CA-2014-140795,2014-02-01,2014-02-03,"First Class","United States","Green Bay",Wisconsin,54302,Central,BD-11500
+252,CA-2016-136924,2016-07-14,2016-07-17,"First Class","United States",Tucson,Arizona,85705,West,ES-14080
+253,US-2015-120161,2015-12-18,2015-12-23,"Standard Class","United States",Springfield,Ohio,45503,East,LM-17065
+254,CA-2014-103849,2014-05-11,2014-05-16,"Standard Class","United States","Fort Worth",Texas,76106,Central,PG-18895
+255,CA-2017-162929,2017-11-19,2017-11-22,"First Class","United States","New York City","New York",10035,East,AS-10135
+256,CA-2015-113173,2015-11-15,2015-11-17,"Second Class","United States",Chicago,Illinois,60653,Central,DK-13225
+257,CA-2016-136406,2016-04-15,2016-04-17,"Second Class","United States","San Francisco",California,94110,West,BD-11320
+258,CA-2017-112774,2017-09-11,2017-09-12,"First Class","United States",Jacksonville,Florida,32216,South,RC-19960
+259,CA-2017-101945,2017-11-24,2017-11-28,"Standard Class","United States",Houston,Texas,77070,Central,GT-14710
+260,CA-2017-100650,2017-06-29,2017-07-03,"Second Class","United States",Anaheim,California,92804,West,DK-13225
+261,CA-2014-155852,2014-03-03,2014-03-07,"Second Class","United States",Wilmington,"North Carolina",28403,South,AJ-10945
+262,CA-2016-113243,2016-06-10,2016-06-15,"Standard Class","United States","Los Angeles",California,90045,West,OT-18730
+263,CA-2017-118731,2017-11-20,2017-11-22,"Second Class","United States","San Francisco",California,94110,West,LP-17080
+264,CA-2014-145576,2014-09-14,2014-09-18,"Second Class","United States",Tampa,Florida,33614,South,CA-12775
+265,CA-2015-130736,2015-12-07,2015-12-09,"First Class","United States",Seattle,Washington,98105,West,JF-15490
+266,CA-2017-137099,2017-12-07,2017-12-10,"First Class","United States","Los Angeles",California,90008,West,FP-14320
+267,CA-2017-156951,2017-10-01,2017-10-08,"Standard Class","United States",Seattle,Washington,98105,West,EB-13840
+268,CA-2017-164826,2017-12-28,2018-01-04,"Standard Class","United States","New York City","New York",10024,East,JF-15415
+269,CA-2016-127250,2016-11-03,2016-11-07,"Standard Class","United States",Marysville,Washington,98270,West,SF-20200
+270,CA-2015-149713,2015-09-18,2015-09-22,"Second Class","United States","Long Beach",California,90805,West,TG-21640
+271,CA-2017-118640,2017-07-20,2017-07-26,"Standard Class","United States",Chicago,Illinois,60610,Central,CS-11950
+272,CA-2015-132906,2015-09-10,2015-09-14,"Standard Class","United States","Los Angeles",California,90004,West,CC-12145
+273,CA-2017-145233,2017-12-01,2017-12-05,"Standard Class","United States",Denver,Colorado,80219,West,DV-13465
+274,CA-2015-128139,2015-07-03,2015-07-09,"Standard Class","United States",Richmond,Kentucky,40475,South,BD-11725
+275,US-2016-156986,2016-03-20,2016-03-24,"Standard Class","United States",Salem,Oregon,97301,West,ZC-21910
+276,CA-2014-135405,2014-01-09,2014-01-13,"Standard Class","United States",Laredo,Texas,78041,Central,MS-17830
+277,CA-2014-131450,2014-08-08,2014-08-15,"Standard Class","United States","San Diego",California,92024,West,LR-16915
+278,CA-2016-120180,2016-07-14,2016-07-16,"First Class","United States",Philadelphia,Pennsylvania,19134,East,TP-21130
+279,US-2016-100720,2016-07-16,2016-07-21,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East,CK-12205
+280,CA-2014-149958,2014-03-15,2014-03-19,"Standard Class","United States",Tampa,Florida,33614,South,AS-10240
+281,US-2014-105767,2014-05-23,2014-05-27,"Standard Class","United States",Philadelphia,Pennsylvania,19134,East,AR-10510
+282,CA-2016-161816,2016-04-28,2016-05-01,"First Class","United States",Dallas,Texas,75217,Central,NB-18655
+283,CA-2016-121223,2016-09-11,2016-09-13,"Second Class","United States",Philadelphia,Pennsylvania,19143,East,GD-14590
+284,CA-2017-138611,2017-11-14,2017-11-17,"Second Class","United States","Grove City",Ohio,43123,East,CK-12595
+285,CA-2017-117947,2017-08-18,2017-08-23,"Second Class","United States","New York City","New York",10011,East,NG-18355
+286,US-2014-111171,2014-12-26,2014-12-31,"Standard Class","United States",Chicago,Illinois,60610,Central,CA-12265
+287,CA-2015-138009,2015-11-29,2015-12-03,"Standard Class","United States",Dearborn,Michigan,48126,Central,SF-20965
+288,CA-2017-163020,2017-09-15,2017-09-19,"Standard Class","United States","New York City","New York",10009,East,MO-17800
+289,CA-2017-153787,2017-05-19,2017-05-23,"Standard Class","United States",Seattle,Washington,98115,West,AT-10735
+290,US-2016-135720,2016-12-11,2016-12-13,"Second Class","United States",Aurora,Colorado,80013,West,FM-14380
+291,CA-2017-144694,2017-09-24,2017-09-26,"Second Class","United States",Miami,Florida,33180,South,BD-11605
+292,CA-2015-168004,2015-10-04,2015-10-09,"Second Class","United States","Warner Robins",Georgia,31088,South,DJ-13420
+293,US-2016-123470,2016-08-15,2016-08-21,"Standard Class","United States",Aurora,Colorado,80013,West,ME-17725
+294,CA-2016-115917,2016-05-20,2016-05-25,"Standard Class","United States",Vallejo,California,94591,West,RB-19465
+295,CA-2016-147067,2016-12-18,2016-12-22,"Standard Class","United States",Minneapolis,Minnesota,55407,Central,JD-16150
+296,CA-2017-167913,2017-07-30,2017-08-03,"Second Class","United States","Mission Viejo",California,92691,West,JL-15835
+297,CA-2017-106103,2017-06-10,2017-06-15,"Standard Class","United States","Rochester Hills",Michigan,48307,Central,SC-20305
+298,US-2017-127719,2017-07-21,2017-07-25,"Standard Class","United States",Plainfield,"New Jersey",7060,East,TW-21025
+299,CA-2017-126221,2017-12-30,2018-01-05,"Standard Class","United States",Columbus,Indiana,47201,Central,CC-12430
+300,CA-2016-103947,2016-04-01,2016-04-08,"Standard Class","United States","Sierra Vista",Arizona,85635,West,BB-10990
+301,CA-2016-160745,2016-12-11,2016-12-16,"Second Class","United States",Vancouver,Washington,98661,West,AR-10825
+302,CA-2016-132661,2016-10-23,2016-10-29,"Standard Class","United States","New York City","New York",10024,East,SR-20740
+303,CA-2017-140844,2017-06-19,2017-06-23,"Standard Class","United States","New York City","New York",10035,East,AR-10405
+304,CA-2016-137239,2016-08-22,2016-08-28,"Standard Class","United States",Columbus,Ohio,43229,East,CR-12730
+305,US-2016-156097,2016-09-19,2016-09-19,"Same Day","United States",Aurora,Illinois,60505,Central,EH-14125
+306,CA-2015-146563,2015-08-24,2015-08-28,"Standard Class","United States",Arlington,Texas,76017,Central,CB-12025
+307,CA-2016-123666,2016-03-26,2016-03-30,"Standard Class","United States","New York City","New York",10011,East,SP-20545
+308,CA-2016-143308,2016-11-04,2016-11-04,"Same Day","United States",Louisville,Kentucky,40214,South,RC-19825
+309,CA-2017-132682,2017-06-08,2017-06-10,"Second Class","United States",Dallas,Texas,75081,Central,TH-21235
+310,CA-2014-156314,2014-12-24,2014-12-26,"First Class","United States",Cleveland,Ohio,44105,East,RP-19390
+311,US-2017-106663,2017-06-09,2017-06-13,"Standard Class","United States",Chicago,Illinois,60653,Central,MO-17800
+312,CA-2017-111178,2017-06-15,2017-06-22,"Standard Class","United States",Quincy,Illinois,62301,Central,TD-20995
+313,CA-2017-130351,2017-12-05,2017-12-08,"First Class","United States",Columbus,Indiana,47201,Central,RB-19570
+314,US-2017-119438,2017-03-18,2017-03-23,"Standard Class","United States",Tyler,Texas,75701,Central,CD-11980
+315,CA-2016-164511,2016-11-19,2016-11-24,"Standard Class","United States","New York City","New York",10024,East,DJ-13630
+316,US-2017-168116,2017-11-04,2017-11-04,"Same Day","United States",Burlington,"North Carolina",27217,South,GT-14635
+317,CA-2014-157784,2014-07-05,2014-07-08,"First Class","United States",Jackson,Mississippi,39212,South,MC-17845
+318,CA-2017-161480,2017-12-25,2017-12-29,"Standard Class","United States","New York City","New York",10035,East,RA-19285
+319,US-2014-117135,2014-06-21,2014-06-23,"Second Class","United States",Waynesboro,Virginia,22980,South,NP-18325
+320,CA-2015-131534,2015-03-28,2015-04-02,"Standard Class","United States","Los Angeles",California,90036,West,AB-10165
+321,CA-2015-119291,2015-05-14,2015-05-17,"First Class","United States",Chester,Pennsylvania,19013,East,JO-15550
+322,CA-2017-114552,2017-09-02,2017-09-08,"Standard Class","United States",Cleveland,Ohio,44105,East,Dl-13600
+323,CA-2016-163755,2016-11-04,2016-11-08,"Second Class","United States",Seattle,Washington,98103,West,AS-10285
+324,CA-2015-142027,2015-04-09,2015-04-14,"Standard Class","United States","Long Beach",California,90805,West,JK-15370
+325,CA-2014-138527,2014-09-12,2014-09-17,"Standard Class","United States",Cary,"North Carolina",27511,South,BN-11470
+326,CA-2014-112158,2014-12-02,2014-12-04,"First Class","United States","New York City","New York",10035,East,DP-13165
+327,CA-2014-113887,2014-04-05,2014-04-07,"First Class","United States","New York City","New York",10035,East,TH-21550
+328,CA-2017-146136,2017-09-03,2017-09-07,"Standard Class","United States","Palm Coast",Florida,32137,South,AP-10915
+329,US-2017-100048,2017-05-19,2017-05-24,"Standard Class","United States","Mount Vernon","New York",10550,East,RS-19765
+330,CA-2014-153150,2014-07-01,2014-07-06,"Second Class","United States",Seattle,Washington,98105,West,Dl-13600
+331,CA-2014-130092,2014-01-11,2014-01-14,"First Class","United States",Dover,Delaware,19901,East,SV-20365
+332,CA-2017-108910,2017-09-24,2017-09-29,"Standard Class","United States",Newark,Ohio,43055,East,KC-16540
+333,CA-2014-104472,2014-06-02,2014-06-07,"Standard Class","United States",Orem,Utah,84057,West,CK-12325
+334,CA-2016-112942,2016-02-13,2016-02-18,"Standard Class","United States","Los Angeles",California,90045,West,RD-19810
+335,CA-2016-142335,2016-12-15,2016-12-19,"Standard Class","United States",Detroit,Michigan,48205,Central,MP-17965
+336,CA-2014-117429,2014-10-07,2014-10-13,"Standard Class","United States",Philadelphia,Pennsylvania,19140,East,MR-17545
+337,CA-2016-114713,2016-07-07,2016-07-12,"Standard Class","United States",Hialeah,Florida,33012,South,SC-20695
+338,CA-2017-144113,2017-09-16,2017-09-20,"Standard Class","United States",Austin,Texas,78745,Central,JF-15355
+339,US-2016-150861,2016-12-03,2016-12-06,"First Class","United States",Oceanside,"New York",11572,East,EG-13900
+340,CA-2017-131954,2017-01-21,2017-01-25,"Standard Class","United States",Seattle,Washington,98115,West,DS-13030
+341,CA-2014-132500,2014-09-08,2014-09-12,"Standard Class","United States","San Francisco",California,94110,West,GZ-14470
+342,CA-2014-112326,2014-01-04,2014-01-08,"Standard Class","United States",Naperville,Illinois,60540,Central,PO-19195
+343,US-2016-146710,2016-08-27,2016-09-01,"Standard Class","United States",Dallas,Texas,75220,Central,SS-20875
+344,CA-2014-124429,2014-05-27,2014-05-27,"Same Day","United States","San Diego",California,92105,West,MH-17785
+345,CA-2016-150889,2016-03-20,2016-03-22,"Second Class","United States",Evanston,Illinois,60201,Central,PB-19105
+346,CA-2017-126074,2017-10-02,2017-10-06,"Standard Class","United States",Trenton,Michigan,48183,Central,RF-19735
+347,CA-2016-110499,2016-04-07,2016-04-09,"First Class","United States","San Francisco",California,94110,West,YC-21895
+348,CA-2015-135272,2015-12-07,2015-12-12,"Standard Class","United States","Los Angeles",California,90036,West,MS-17830
+349,CA-2016-140928,2016-09-18,2016-09-22,"Standard Class","United States",Jacksonville,Florida,32216,South,NB-18655
+350,CA-2014-106803,2014-12-29,2015-01-02,"Standard Class","United States","Cottage Grove",Minnesota,55016,Central,DC-13285
+351,CA-2017-117240,2017-07-23,2017-07-28,"Standard Class","United States","New York City","New York",10009,East,CP-12340
+352,CA-2015-112319,2015-08-31,2015-09-05,"Standard Class","United States","Los Angeles",California,90004,West,AR-10510
+353,CA-2017-126046,2017-11-03,2017-11-07,"Standard Class","United States",Atlanta,Georgia,30318,South,JC-16105
+354,CA-2015-114923,2015-02-08,2015-02-13,"Standard Class","United States",Columbus,Ohio,43229,East,LH-17020
+355,CA-2014-162775,2014-01-13,2014-01-15,"Second Class","United States","Bossier City",Louisiana,71111,South,CS-12250
+356,CA-2014-106810,2014-05-14,2014-05-20,"Standard Class","United States","Saint Petersburg",Florida,33710,South,AJ-10795
+357,CA-2016-157245,2016-05-19,2016-05-24,"Standard Class","United States",Arlington,Virginia,22204,South,LE-16810
+358,CA-2017-104220,2017-01-30,2017-02-05,"Standard Class","United States","Des Moines",Iowa,50315,Central,BV-11245
+359,CA-2014-165974,2014-06-29,2014-07-06,"Standard Class","United States",Cincinnati,Ohio,45231,East,DL-12865
+360,CA-2015-144267,2015-08-21,2015-08-23,"First Class","United States","San Francisco",California,94110,West,NZ-18565
+361,US-2015-157014,2015-10-03,2015-10-06,"Second Class","United States",Columbus,Ohio,43229,East,BM-11785
+362,CA-2015-154921,2015-05-23,2015-05-28,"Standard Class","United States",Columbia,"South Carolina",29203,South,EA-14035
+363,CA-2017-129567,2017-03-17,2017-03-21,"Second Class","United States",Lancaster,California,93534,West,CL-12565
+364,CA-2015-154620,2015-12-12,2015-12-16,"Standard Class","United States",Lancaster,California,93534,West,LT-17110
+365,CA-2015-115938,2015-06-26,2015-06-30,"Standard Class","United States",Richmond,Virginia,23223,South,SA-20830
+366,CA-2016-105256,2016-05-20,2016-05-20,"Same Day","United States",Asheville,"North Carolina",28806,South,JK-15730
+367,CA-2014-156433,2014-09-20,2014-09-26,"Standard Class","United States","San Francisco",California,94110,West,ES-14020
+368,CA-2017-151428,2017-09-21,2017-09-26,"Standard Class","United States",Rochester,Minnesota,55901,Central,RH-19495
+369,CA-2015-124653,2015-12-24,2015-12-26,"First Class","United States",Rochester,"New York",14609,East,DB-13120
+370,CA-2015-101910,2015-11-27,2015-12-03,"Standard Class","United States","Lake Elsinore",California,92530,West,CD-11920
+371,CA-2017-105809,2017-02-20,2017-02-23,"First Class","United States","San Diego",California,92105,West,HW-14935
+372,CA-2016-136133,2016-08-18,2016-08-23,"Second Class","United States","New York City","New York",10024,East,HW-14935
+373,CA-2016-115504,2016-03-12,2016-03-17,"Standard Class","United States",Monroe,Louisiana,71203,South,MC-18130
+374,CA-2017-135783,2017-04-22,2017-04-24,"First Class","United States","San Francisco",California,94122,West,GM-14440
+375,CA-2014-134313,2014-11-01,2014-11-07,"Standard Class","United States",Denver,Colorado,80219,West,RA-19915
+376,CA-2015-140921,2015-02-03,2015-02-05,"First Class","United States",Omaha,Nebraska,68104,Central,AA-10375
+377,CA-2014-151995,2014-10-13,2014-10-15,"First Class","United States",Edmonds,Washington,98026,West,ZC-21910
+378,CA-2017-143686,2017-05-14,2017-05-14,"Same Day","United States","Santa Ana",California,92704,West,PJ-19015
+379,CA-2015-106565,2015-03-20,2015-03-23,"First Class","United States",Milwaukee,Wisconsin,53209,Central,BW-11110
+380,CA-2016-149370,2016-09-15,2016-09-19,"Standard Class","United States",Philadelphia,Pennsylvania,19140,East,DB-13210
+381,CA-2014-140858,2014-06-28,2014-07-02,"Standard Class","United States",Philadelphia,Pennsylvania,19140,East,CA-12775
+382,CA-2017-101434,2017-06-20,2017-06-27,"Standard Class","United States",Belleville,"New Jersey",7109,East,TR-21325
+383,US-2014-102071,2014-05-09,2014-05-15,"Standard Class","United States","San Francisco",California,94110,West,PG-18820
+384,CA-2017-126956,2017-08-21,2017-08-28,"Standard Class","United States",Lakeville,Minnesota,55044,Central,GT-14710
+385,CA-2017-129462,2017-06-16,2017-06-21,"Second Class","United States",Florence,Kentucky,41042,South,JE-15745
+386,CA-2016-165316,2016-07-23,2016-07-27,"Standard Class","United States",Tampa,Florida,33614,South,JB-15400
+387,US-2014-115987,2014-09-08,2014-09-13,"Second Class","United States",Tyler,Texas,75701,Central,LH-17020
+388,US-2017-156083,2017-11-04,2017-11-11,"Standard Class","United States",Columbia,Tennessee,38401,South,JL-15175
+389,US-2016-137547,2016-03-07,2016-03-12,"Standard Class","United States","Fort Worth",Texas,76106,Central,EB-13705
+390,CA-2015-100454,2015-11-20,2015-11-25,"Standard Class","United States","New York City","New York",10035,East,BM-11650
+391,CA-2016-161669,2016-11-07,2016-11-09,"First Class","United States","Los Angeles",California,90036,West,EM-14095
+392,CA-2015-114300,2015-10-13,2015-10-17,"Standard Class","United States",Louisville,Kentucky,40214,South,AF-10885
+393,CA-2014-107755,2014-02-07,2014-02-12,"Standard Class","United States",Linden,"New Jersey",7036,East,CK-12760
+394,CA-2016-152534,2016-06-20,2016-06-25,"Second Class","United States",Salinas,California,93905,West,DP-13105
+395,CA-2016-113747,2016-05-28,2016-06-04,"Standard Class","United States",Jackson,Mississippi,39212,South,VD-21670
+396,CA-2016-123274,2016-02-19,2016-02-24,"Standard Class","United States","New York City","New York",10035,East,GT-14710
+397,CA-2014-125612,2014-08-03,2014-08-08,"Standard Class","United States","New York City","New York",10035,East,BK-11260
+398,CA-2017-161984,2017-04-10,2017-04-15,"Standard Class","United States","New Brunswick","New Jersey",8901,East,SJ-20125
+399,CA-2014-133851,2014-06-09,2014-06-16,"Standard Class","United States","San Francisco",California,94122,West,CM-12445
+400,CA-2016-134474,2016-01-05,2016-01-07,"Second Class","United States",Jacksonville,Florida,32216,South,AJ-10795
+401,CA-2014-149020,2014-01-10,2014-01-15,"Standard Class","United States",Springfield,Virginia,22153,South,AJ-10780
+402,CA-2016-134362,2016-09-29,2016-10-02,"First Class","United States",Philadelphia,Pennsylvania,19140,East,LS-16945
+403,CA-2014-136742,2014-04-06,2014-04-10,"Standard Class","United States",Lancaster,Pennsylvania,17602,East,GP-14740
+404,CA-2016-158099,2016-09-03,2016-09-05,"First Class","United States",Philadelphia,Pennsylvania,19143,East,PK-18910
+405,CA-2015-131128,2015-10-19,2015-10-20,"First Class","United States",Concord,"New Hampshire",3301,East,TB-21520
+406,CA-2014-148488,2014-12-10,2014-12-15,"Standard Class","United States","New York City","New York",10009,East,SM-20005
+407,CA-2017-114636,2017-08-25,2017-08-29,"Standard Class","United States",Charlotte,"North Carolina",28205,South,GA-14725
+408,CA-2016-116736,2016-01-17,2016-01-21,"Standard Class","United States",Concord,"New Hampshire",3301,East,CC-12430
+409,CA-2017-111689,2017-11-30,2017-12-02,"Second Class","United States","New York City","New York",10024,East,HP-14815
+410,CA-2015-129098,2015-10-09,2015-10-13,"Standard Class","United States",Springfield,Virginia,22153,South,DK-13090
+411,US-2017-123463,2017-12-23,2017-12-23,"Same Day","United States","San Francisco",California,94109,West,GZ-14470
+412,CA-2016-165148,2016-10-22,2016-10-24,"First Class","United States",Detroit,Michigan,48227,Central,PM-19135
+413,CA-2014-134061,2014-04-29,2014-05-04,"Standard Class","United States",Rochester,"New York",14609,East,LL-16840
+414,CA-2015-143602,2015-04-25,2015-04-28,"Second Class","United States","Los Angeles",California,90045,West,JS-15595
+415,CA-2017-115364,2017-06-26,2017-07-02,"Standard Class","United States","San Diego",California,92105,West,OT-18730
+416,CA-2017-150707,2017-10-14,2017-10-19,"Standard Class","United States",Columbia,Maryland,21044,East,EL-13735
+417,CA-2014-104976,2014-12-09,2014-12-16,"Standard Class","United States","San Francisco",California,94122,West,CK-12760
+418,CA-2017-132934,2017-06-20,2017-06-26,"Standard Class","United States","New Rochelle","New York",10801,East,JE-15475
+419,CA-2017-133256,2017-06-26,2017-06-27,"First Class","United States",Detroit,Michigan,48227,Central,TH-21550
+420,CA-2016-105494,2016-11-10,2016-11-12,"First Class","United States","San Francisco",California,94122,West,PC-18745
+421,CA-2016-140634,2016-10-03,2016-10-06,"Second Class","United States",Houston,Texas,77095,Central,HL-15040
+422,CA-2014-144407,2014-09-09,2014-09-15,"Standard Class","United States",Detroit,Michigan,48227,Central,MS-17365
+423,CA-2017-160983,2017-10-29,2017-10-31,"Second Class","United States",Auburn,"New York",13021,East,GB-14530
+424,US-2016-114622,2016-04-10,2016-04-12,"First Class","United States",Springfield,Ohio,45503,East,JR-16210
+425,CA-2017-150959,2017-11-11,2017-11-13,"First Class","United States",Garland,Texas,75043,Central,TD-20995
+426,CA-2017-132353,2017-09-15,2017-09-17,"First Class","United States",Chicago,Illinois,60653,Central,DB-13060
+427,CA-2016-130477,2016-04-08,2016-04-12,"Standard Class","United States","Los Angeles",California,90032,West,LC-17140
+428,CA-2017-143259,2017-12-30,2018-01-03,"Standard Class","United States","New York City","New York",10009,East,PO-18865
+429,CA-2017-137596,2017-09-02,2017-09-07,"Standard Class","United States",Jackson,Michigan,49201,Central,BE-11335
+430,CA-2015-133627,2015-05-31,2015-06-07,"Standard Class","United States",Norwich,Connecticut,6360,East,SC-20050
+431,CA-2017-102519,2017-11-27,2017-11-29,"First Class","United States",Milwaukee,Wisconsin,53209,Central,BM-11650
+432,US-2014-141215,2014-06-15,2014-06-21,"Standard Class","United States","San Antonio",Texas,78207,Central,KL-16555
+433,CA-2016-165218,2016-03-05,2016-03-11,"Standard Class","United States",Dallas,Texas,75220,Central,RW-19630
+434,CA-2014-138296,2014-12-05,2014-12-12,"Standard Class","United States",Alexandria,Virginia,22304,South,RC-19825
+435,CA-2015-111164,2015-04-11,2015-04-15,"Standard Class","United States","New York City","New York",10009,East,SE-20110
+436,CA-2016-149797,2016-09-15,2016-09-20,"Standard Class","United States","New York City","New York",10011,East,AH-10075
+437,CA-2014-132962,2014-09-13,2014-09-16,"First Class","United States",Philadelphia,Pennsylvania,19143,East,JM-15535
+438,CA-2015-115091,2015-10-05,2015-10-09,"Standard Class","United States",Springfield,Virginia,22153,South,JJ-15760
+439,CA-2017-144932,2017-04-14,2017-04-17,"First Class","United States",Toledo,Ohio,43615,East,AB-10165
+440,CA-2016-140081,2016-06-20,2016-06-24,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East,CG-12040
+441,US-2017-111745,2017-11-05,2017-11-06,"First Class","United States",Farmington,"New Mexico",87401,West,RA-19885
+442,CA-2015-148250,2015-12-13,2015-12-17,"Standard Class","United States",Riverside,California,92503,West,RP-19270
+443,CA-2016-142958,2016-12-13,2016-12-20,"Standard Class","United States",Torrance,California,90503,West,RW-19630
+444,CA-2015-120880,2015-05-29,2015-06-03,"Standard Class","United States",Seattle,Washington,98105,West,JL-15850
+445,US-2015-140200,2015-07-26,2015-07-28,"First Class","United States",Mesa,Arizona,85204,West,CA-12775
+446,US-2017-110576,2017-11-28,2017-12-02,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East,RB-19795
+447,CA-2017-131156,2017-04-03,2017-04-07,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East,KH-16360
+448,CA-2017-136539,2017-12-28,2018-01-01,"Standard Class","United States","Round Rock",Texas,78664,Central,GH-14665
+449,CA-2017-119305,2017-11-30,2017-12-04,"Standard Class","United States",Jackson,Mississippi,39212,South,SW-20275
+450,CA-2017-102414,2017-05-15,2017-05-18,"Second Class","United States",Phoenix,Arizona,85023,West,JA-15970
+451,CA-2015-112571,2015-09-22,2015-09-22,"Same Day","United States",Oceanside,California,92054,West,DL-12925
+452,CA-2017-152142,2017-11-14,2017-11-19,"Standard Class","United States","San Francisco",California,94110,West,LW-16990
+453,CA-2015-160059,2015-11-27,2015-12-01,"Standard Class","United States",Fayetteville,Arkansas,72701,South,TB-21190
+454,CA-2016-120859,2016-09-01,2016-09-04,"First Class","United States","San Francisco",California,94110,West,CV-12805
+455,CA-2014-127488,2014-09-22,2014-09-24,"Second Class","United States","Boca Raton",Florida,33433,South,MS-17365
+456,CA-2017-135279,2017-04-09,2017-04-11,"First Class","United States","New York City","New York",10011,East,BS-11800
+457,CA-2014-115791,2014-01-16,2014-01-18,"Second Class","United States",Philadelphia,Pennsylvania,19134,East,DL-13315
+458,US-2017-103247,2017-10-05,2017-10-08,"Second Class","United States","New York City","New York",10011,East,PO-19195
+459,US-2017-100209,2017-07-09,2017-07-15,"Standard Class","United States",Portland,Oregon,97206,West,TD-20995
+460,CA-2017-159366,2017-01-07,2017-01-10,"First Class","United States",Detroit,Michigan,48205,Central,BW-11110
+461,CA-2016-145499,2016-05-30,2016-05-31,"First Class","United States",Wilmington,"North Carolina",28403,South,RW-19690
+462,CA-2015-157035,2015-12-09,2015-12-12,"First Class","United States",Columbus,Indiana,47201,Central,KB-16600
+463,CA-2016-144939,2016-10-03,2016-10-08,"Standard Class","United States","New York City","New York",10035,East,EB-13870
+464,CA-2014-163419,2014-11-11,2014-11-14,"Second Class","United States",Louisville,Colorado,80027,West,TZ-21580
+465,CA-2017-100314,2017-09-29,2017-10-05,"Standard Class","United States",Pasadena,Texas,77506,Central,AS-10630
+466,CA-2015-146829,2015-03-10,2015-03-10,"Same Day","United States",Houston,Texas,77041,Central,TS-21340
+467,CA-2017-167899,2017-05-21,2017-05-26,"Standard Class","United States",Auburn,"New York",13021,East,JG-15805
+468,CA-2015-153549,2015-03-29,2015-03-31,"Second Class","United States",Jacksonville,Florida,32216,South,SL-20155
+469,CA-2016-110023,2016-09-09,2016-09-11,"First Class","United States","New York City","New York",10024,East,TS-21610
+470,CA-2016-105585,2016-08-26,2016-08-27,"First Class","United States","San Jose",California,95123,West,RF-19735
+471,CA-2014-117639,2014-05-21,2014-05-25,"Standard Class","United States","Virginia Beach",Virginia,23464,South,MW-18235
+472,CA-2015-162537,2015-10-28,2015-11-03,"Standard Class","United States",Henderson,Kentucky,42420,South,RD-19585
+473,CA-2016-155488,2016-11-13,2016-11-17,"Standard Class","United States",Vancouver,Washington,98661,West,FM-14290
+474,CA-2015-124891,2015-07-31,2015-07-31,"Same Day","United States","New York City","New York",10024,East,RH-19495
+475,CA-2015-126445,2015-08-27,2015-08-31,"Standard Class","United States",Murrieta,California,92563,West,RA-19945
+476,CA-2015-111199,2015-11-13,2015-11-17,"Standard Class","United States",Jacksonville,"North Carolina",28540,South,JK-15730
+477,CA-2015-105312,2015-11-06,2015-11-09,"First Class","United States",Scottsdale,Arizona,85254,West,MT-17815
+478,CA-2017-135034,2017-08-01,2017-08-03,"First Class","United States",Chicago,Illinois,60653,Central,AT-10735
+479,CA-2017-118437,2017-06-17,2017-06-21,"Second Class","United States",Olympia,Washington,98502,West,PF-19165
+480,US-2015-126214,2015-12-21,2015-12-24,"Second Class","United States",Seattle,Washington,98103,West,JS-15880
+481,CA-2015-133025,2015-09-17,2015-09-19,"Second Class","United States","Los Angeles",California,90036,West,MO-17800
+482,CA-2015-108665,2015-07-06,2015-07-10,"Standard Class","United States","New York City","New York",10011,East,KM-16225
+483,CA-2015-124450,2015-04-27,2015-05-03,"Standard Class","United States",Washington,"District of Columbia",20016,East,GT-14710
+484,CA-2015-167269,2015-06-16,2015-06-20,"Standard Class","United States",Philadelphia,Pennsylvania,19134,East,PB-19150
+485,CA-2017-106964,2017-12-17,2017-12-20,"First Class","United States","Los Angeles",California,90045,West,HR-14770
+486,CA-2016-126529,2016-01-11,2016-01-13,"Second Class","United States",Springfield,Ohio,45503,East,DE-13255
+487,CA-2014-163552,2014-07-11,2014-07-15,"Standard Class","United States",Hackensack,"New Jersey",7601,East,LA-16780
+488,CA-2016-109820,2016-11-20,2016-11-22,"First Class","United States",Cincinnati,Ohio,45231,East,AG-10390
+489,CA-2016-113061,2016-04-22,2016-04-26,"Standard Class","United States","Jefferson City",Missouri,65109,Central,EL-13735
+490,CA-2015-127418,2015-06-13,2015-06-14,"First Class","United States","Los Angeles",California,90004,West,JJ-15445
+491,CA-2017-121818,2017-11-20,2017-11-21,"First Class","United States",Burlington,"North Carolina",27217,South,JH-15430
+492,CA-2016-127670,2016-03-20,2016-03-24,"Standard Class","United States","Saint Peters",Missouri,63376,Central,RD-19660
+493,CA-2016-102981,2016-09-06,2016-09-09,"Second Class","United States","New York City","New York",10035,East,MO-17500
+494,CA-2017-115651,2017-07-09,2017-07-12,"First Class","United States",Chicago,Illinois,60610,Central,NS-18640
+495,CA-2017-152702,2017-10-12,2017-10-16,"Standard Class","United States",Rockford,Illinois,61107,Central,SN-20710
+496,CA-2016-169103,2016-03-08,2016-03-13,"Standard Class","United States",Miami,Florida,33142,South,ZC-21910
+497,CA-2014-139192,2014-05-27,2014-06-01,"Second Class","United States","San Francisco",California,94109,West,LC-16885
+498,US-2015-153500,2015-07-03,2015-07-05,"First Class","United States",Philadelphia,Pennsylvania,19134,East,DG-13300
+499,CA-2015-110667,2015-04-04,2015-04-08,"Standard Class","United States","New York City","New York",10009,East,NF-18595
+500,CA-2017-167150,2017-12-10,2017-12-17,"Standard Class","United States","San Diego",California,92037,West,BP-11185
+501,CA-2016-105284,2016-11-24,2016-12-01,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East,MG-17650
+502,US-2015-125374,2015-03-23,2015-03-29,"Standard Class","United States",Houston,Texas,77095,Central,JD-16060
+503,CA-2015-161263,2015-04-16,2015-04-21,"Standard Class","United States",Toledo,Ohio,43615,East,TS-21160
+504,CA-2016-157686,2016-10-01,2016-10-02,"First Class","United States","San Francisco",California,94122,West,BD-11620
+505,US-2017-139955,2017-09-28,2017-09-30,"Second Class","United States",Brownsville,Texas,78521,Central,CM-12160
+506,US-2015-150161,2015-07-25,2015-07-29,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East,RB-19795
+507,CA-2015-144652,2015-11-20,2015-11-26,"Standard Class","United States","Los Angeles",California,90008,West,SN-20560
+508,CA-2016-152814,2016-04-28,2016-05-02,"Standard Class","United States",Denver,Colorado,80219,West,EH-14005
+509,CA-2017-106943,2017-11-14,2017-11-19,"Standard Class","United States","New York City","New York",10035,East,FO-14305
+510,CA-2016-134348,2016-11-12,2016-11-19,"Standard Class","United States",Mesa,Arizona,85204,West,MS-17710
+511,CA-2016-161781,2016-09-29,2016-09-30,"First Class","United States",Columbus,Indiana,47201,Central,CC-12100
+512,CA-2017-132521,2017-09-23,2017-09-25,"Second Class","United States",Seattle,Washington,98105,West,DW-13540
+513,CA-2015-110016,2015-11-29,2015-12-04,"Standard Class","United States",Detroit,Michigan,48227,Central,BT-11395
+514,US-2016-143819,2016-03-01,2016-03-05,"Standard Class","United States",Yonkers,"New York",10701,East,KD-16270
+515,CA-2016-167584,2016-08-12,2016-08-12,"Same Day","United States","Des Moines",Iowa,50315,Central,LC-16870
+516,CA-2016-166163,2016-08-15,2016-08-20,"Second Class","United States",Oakland,California,94601,West,CY-12745
+517,CA-2017-158407,2017-06-04,2017-06-10,"Standard Class","United States",Monroe,"North Carolina",28110,South,LW-16990
+518,CA-2015-143490,2015-12-06,2015-12-13,"Standard Class","United States","San Diego",California,92105,West,NP-18325
+519,CA-2015-165085,2015-12-27,2015-12-31,"Standard Class","United States",Clinton,Maryland,20735,East,BT-11485
+520,CA-2017-160423,2017-01-21,2017-01-26,"Standard Class","United States",Charlotte,"North Carolina",28205,South,PS-19045
+521,CA-2014-159338,2014-06-25,2014-06-28,"First Class","United States","Los Angeles",California,90049,West,NS-18640
+522,CA-2016-107216,2016-06-14,2016-06-17,"First Class","United States","San Francisco",California,94122,West,PV-18985
+523,US-2017-145863,2017-04-21,2017-04-27,"Standard Class","United States",Houston,Texas,77041,Central,RP-19390
+524,US-2016-110156,2016-11-19,2016-11-24,"Standard Class","United States",Houston,Texas,77041,Central,EH-13945
+525,CA-2017-140585,2017-12-18,2017-12-23,"Second Class","United States",Encinitas,California,92024,West,RA-19915
+526,CA-2016-144855,2016-07-22,2016-07-24,"Second Class","United States","San Francisco",California,94110,West,DL-13495
+527,CA-2015-142755,2015-09-04,2015-09-08,"Standard Class","United States",Roswell,Georgia,30076,South,CS-12355
+528,US-2014-147627,2014-01-20,2014-01-26,"Standard Class","United States",Jonesboro,Arkansas,72401,South,HL-15040
+529,CA-2015-105970,2015-03-02,2015-03-07,"Standard Class","United States",Richmond,Indiana,47374,Central,PA-19060
+530,CA-2016-112102,2016-04-12,2016-04-16,"Standard Class","United States",Springfield,Virginia,22153,South,BD-11605
+531,US-2016-114776,2016-12-06,2016-12-07,"First Class","United States",Antioch,California,94509,West,GG-14650
+532,US-2016-134908,2016-06-05,2016-06-09,"Standard Class","United States",Philadelphia,Pennsylvania,19134,East,JS-15940
+533,US-2016-148803,2016-12-11,2016-12-11,"Same Day","United States",Homestead,Florida,33030,South,LR-16915
+534,CA-2016-152170,2016-11-12,2016-11-15,"Second Class","United States","La Porte",Indiana,46350,Central,FH-14275
+535,CA-2014-146969,2014-09-29,2014-10-03,"Standard Class","United States","Los Angeles",California,90045,West,AP-10915
+536,CA-2015-112452,2015-04-04,2015-04-04,"Same Day","United States",Lansing,Michigan,48911,Central,NC-18340
+537,CA-2015-113971,2015-05-08,2015-05-14,"Standard Class","United States","Cuyahoga Falls",Ohio,44221,East,CB-12535
+538,CA-2017-160395,2016-12-31,2017-01-06,"Standard Class","United States",Reno,Nevada,89502,West,KL-16555
+539,CA-2014-136567,2014-12-20,2014-12-21,"First Class","United States",Harrisonburg,Virginia,22801,South,PS-19045
+540,CA-2016-149314,2016-07-02,2016-07-07,"Second Class","United States","Los Angeles",California,90004,West,GB-14530
+541,CA-2017-147039,2017-06-29,2017-07-04,"Standard Class","United States",Minneapolis,Minnesota,55407,Central,AA-10315
+542,CA-2014-126522,2014-09-01,2014-09-05,"Second Class","United States",Escondido,California,92025,West,LT-16765
+543,CA-2014-127964,2014-03-03,2014-03-08,"Standard Class","United States","New York City","New York",10035,East,AP-10720
+544,CA-2014-117709,2014-05-04,2014-05-08,"Standard Class","United States",Jackson,Michigan,49201,Central,PM-18940
+545,CA-2015-125416,2015-11-02,2015-11-02,"Same Day","United States",Seattle,Washington,98115,West,KC-16540
+546,CA-2017-145226,2017-12-08,2017-12-10,"Second Class","United States","New York City","New York",10035,East,DL-13315
+547,US-2014-100279,2014-03-10,2014-03-14,"Standard Class","United States","Royal Oak",Michigan,48073,Central,SW-20275
+548,CA-2014-158064,2014-04-21,2014-04-25,"Standard Class","United States","Los Angeles",California,90008,West,AA-10375
+549,US-2015-104430,2015-10-22,2015-10-26,"Standard Class","United States",Bloomington,Illinois,61701,Central,LT-17110
+550,CA-2016-161207,2016-08-29,2016-09-03,"Standard Class","United States",Concord,"New Hampshire",3301,East,AB-10060
+551,CA-2014-120243,2014-12-27,2014-12-30,"Second Class","United States","Los Angeles",California,90004,West,AT-10435
+552,CA-2016-113621,2016-12-01,2016-12-05,"Standard Class","United States",Rockville,Maryland,20852,East,JE-15745
+553,CA-2016-168081,2016-04-24,2016-04-27,"Second Class","United States",Houston,Texas,77070,Central,CA-12055
+554,CA-2014-128146,2014-06-21,2014-06-25,"Standard Class","United States",Lakewood,"New Jersey",8701,East,DB-13060
+555,CA-2017-138779,2017-01-14,2017-01-15,"First Class","United States",Jacksonville,"North Carolina",28540,South,RB-19570
+556,CA-2014-127131,2014-11-24,2014-11-30,"Standard Class","United States",Seattle,Washington,98103,West,HR-14830
+557,CA-2017-117212,2017-02-26,2017-02-28,"Second Class","United States","Los Angeles",California,90036,West,BT-11530
+558,US-2015-130519,2015-09-15,2015-09-15,"Same Day","United States","Coral Springs",Florida,33065,South,NG-18355
+559,CA-2016-130946,2016-04-08,2016-04-12,"Standard Class","United States",Houston,Texas,77041,Central,ZC-21910
+560,CA-2016-114727,2016-07-18,2016-07-24,"Standard Class","United States",Denver,Colorado,80219,West,LS-16945
+561,CA-2017-133235,2017-08-01,2017-08-04,"First Class","United States",Charlotte,"North Carolina",28205,South,LH-16750
+562,CA-2016-137050,2016-07-14,2016-07-18,"Second Class","United States","New York City","New York",10009,East,SW-20755
+563,US-2017-118087,2017-09-09,2017-09-13,"Standard Class","United States",Philadelphia,Pennsylvania,19134,East,SP-20620
+564,CA-2014-110184,2014-07-12,2014-07-16,"Standard Class","United States","Los Angeles",California,90036,West,BF-11170
+565,CA-2016-126004,2016-12-04,2016-12-05,"First Class","United States","New York City","New York",10024,East,BM-11140
+566,CA-2017-100013,2017-11-06,2017-11-11,"Standard Class","United States","Los Angeles",California,90045,West,ZC-21910
+567,CA-2015-132570,2015-10-31,2015-11-02,"Second Class","United States",Buffalo,"New York",14215,East,KT-16480
+568,CA-2016-153682,2016-05-30,2016-06-01,"First Class","United States",Cincinnati,Ohio,45231,East,BG-11695
+569,CA-2016-144344,2016-10-28,2016-10-28,"Same Day","United States","Boynton Beach",Florida,33437,South,PG-18820
+570,CA-2014-127012,2014-08-11,2014-08-15,"Standard Class","United States",Seattle,Washington,98105,West,GM-14680
+571,CA-2016-128727,2016-08-29,2016-09-04,"Standard Class","United States","New York City","New York",10024,East,MO-17800
+572,US-2016-162859,2016-02-15,2016-02-22,"Standard Class","United States","New York City","New York",10009,East,PG-18820
+573,CA-2017-133641,2017-05-14,2017-05-21,"Standard Class","United States",Gulfport,Mississippi,39503,South,EJ-14155
+574,CA-2014-168494,2014-12-12,2014-12-14,"Second Class","United States",Fresno,California,93727,West,NP-18700
+575,CA-2017-115602,2017-12-18,2017-12-24,"Standard Class","United States","New York City","New York",10009,East,DJ-13630
+576,CA-2015-154956,2015-07-04,2015-07-09,"Standard Class","United States",Milwaukee,Wisconsin,53209,Central,IM-15070
+577,CA-2017-144638,2017-03-10,2017-03-14,"Standard Class","United States",Chester,Pennsylvania,19013,East,MH-18115
+578,US-2016-168620,2016-12-24,2016-12-28,"Second Class","United States",Charlotte,"North Carolina",28205,South,RB-19795
+579,CA-2017-117079,2017-10-23,2017-10-27,"Standard Class","United States",Jacksonville,Florida,32216,South,JR-15700
+580,US-2016-144393,2016-10-28,2016-11-04,"Standard Class","United States",Greenville,"North Carolina",27834,South,SM-20950
+581,CA-2017-105053,2017-07-07,2017-07-09,"Second Class","United States","Long Beach","New York",11561,East,CS-12355
+582,CA-2016-155992,2016-10-01,2016-10-02,"First Class","United States","La Porte",Indiana,46350,Central,CC-12220
+583,CA-2017-110380,2017-09-02,2017-09-07,"Standard Class","United States","San Francisco",California,94122,West,PF-19225
+584,US-2014-167738,2014-12-24,2014-12-29,"Standard Class","United States","Los Angeles",California,90045,West,JC-16105
+585,CA-2017-121412,2017-09-23,2017-09-27,"Standard Class","United States",Louisville,Colorado,80027,West,BG-11695
+586,CA-2017-100426,2017-06-04,2017-06-08,"Standard Class","United States",Florence,Alabama,35630,South,DC-12850
+587,US-2016-103646,2016-04-21,2016-04-26,"Standard Class","United States",Chicago,Illinois,60623,Central,SP-20545
+588,CA-2016-119186,2016-05-26,2016-05-26,"Same Day","United States","Fort Worth",Texas,76106,Central,MS-17710
+589,CA-2016-148698,2016-05-02,2016-05-07,"Standard Class","United States",Houston,Texas,77070,Central,BD-11770
+590,CA-2014-163293,2014-09-08,2014-09-11,"First Class","United States",Macon,Georgia,31204,South,KC-16255
+591,CA-2016-160815,2016-09-05,2016-09-06,"First Class","United States","Cedar Rapids",Iowa,52402,Central,TR-21325
+592,CA-2017-122154,2017-04-09,2017-04-11,"First Class","United States",Jacksonville,Florida,32216,South,SA-20830
+593,US-2015-149692,2015-12-06,2015-12-12,"Standard Class","United States",Austin,Texas,78745,Central,KW-16435
+594,CA-2016-119445,2016-06-26,2016-07-03,"Standard Class","United States",Providence,"Rhode Island",2908,East,GM-14500
+595,CA-2015-124268,2015-07-04,2015-07-08,"Standard Class","United States","New York City","New York",10035,East,AD-10180
+596,CA-2016-154711,2016-11-22,2016-11-26,"Standard Class","United States","New York City","New York",10009,East,TB-21355
+597,CA-2016-163384,2016-11-10,2016-11-12,"First Class","United States","San Francisco",California,94122,West,CC-12430
+598,CA-2015-101707,2015-08-27,2015-09-01,"Standard Class","United States","San Diego",California,92105,West,PF-19165
+599,CA-2015-138898,2015-05-25,2015-05-29,"Standard Class","United States",Pueblo,Colorado,81001,West,JH-16180
+600,CA-2017-115427,2017-12-30,2018-01-03,"Standard Class","United States",Fairfield,California,94533,West,EB-13975
+601,CA-2016-134425,2016-12-08,2016-12-12,"Second Class","United States","Saint Paul",Minnesota,55106,Central,QJ-19255
+602,CA-2015-121391,2015-10-04,2015-10-07,"First Class","United States","San Francisco",California,94109,West,AA-10315
+603,CA-2016-137043,2016-12-23,2016-12-25,"Second Class","United States",Springfield,Virginia,22153,South,LC-17140
+604,CA-2015-115847,2015-09-19,2015-09-24,"Second Class","United States",Arlington,Virginia,22204,South,TC-21535
+605,US-2017-126179,2017-07-03,2017-07-07,"Standard Class","United States",Columbus,Georgia,31907,South,CS-12460
+606,CA-2016-101966,2016-07-14,2016-07-16,"Second Class","United States",Houston,Texas,77036,Central,BM-11785
+607,CA-2016-141397,2016-06-20,2016-06-21,"First Class","United States",Pasadena,California,91104,West,RC-19825
+608,CA-2016-141082,2016-12-09,2016-12-13,"Standard Class","United States",Lawrence,Massachusetts,1841,East,FM-14380
+609,US-2016-134488,2016-09-24,2016-10-01,"Standard Class","United States",Columbus,Ohio,43229,East,PK-19075
+610,CA-2016-145919,2016-12-18,2016-12-23,"Standard Class","United States","Los Angeles",California,90032,West,HG-14965
+611,CA-2017-157651,2017-12-10,2017-12-14,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East,HA-14920
+612,CA-2014-160773,2014-07-01,2014-07-05,"Standard Class","United States",Deltona,Florida,32725,South,LW-16825
+613,CA-2017-167703,2017-02-03,2017-02-08,"Standard Class","United States",Cincinnati,Ohio,45231,East,MC-17575
+614,CA-2017-121804,2017-03-03,2017-03-08,"Standard Class","United States",Murray,Kentucky,42071,South,LP-17095
+615,CA-2017-162635,2017-10-09,2017-10-10,"First Class","United States",Wilmington,"North Carolina",28403,South,EB-14170
+616,CA-2014-107153,2014-09-28,2014-10-03,"Standard Class","United States",Lawrence,Massachusetts,1841,East,GZ-14545
+617,US-2014-117058,2014-05-27,2014-05-30,"First Class","United States",Chicago,Illinois,60653,Central,LE-16810
+618,CA-2015-120439,2015-06-14,2015-06-18,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East,AD-10180
+619,CA-2016-128258,2016-03-30,2016-04-01,"First Class","United States",Norwich,Connecticut,6360,East,CP-12085
+620,CA-2017-106033,2017-10-15,2017-10-18,"Second Class","United States","San Francisco",California,94110,West,FG-14260
+621,CA-2016-142762,2016-05-23,2016-05-27,"Standard Class","United States","San Francisco",California,94109,West,LD-17005
+622,CA-2017-127705,2017-06-02,2017-06-06,"Standard Class","United States",Lorain,Ohio,44052,East,AB-10255
+623,CA-2014-122567,2014-02-16,2014-02-21,"Standard Class","United States",Dallas,Texas,75220,Central,MN-17935
+624,CA-2014-121664,2014-05-06,2014-05-10,"Standard Class","United States","Los Angeles",California,90049,West,HP-14815
+625,CA-2016-122133,2016-05-16,2016-05-23,"Standard Class","United States",Middletown,Connecticut,6457,East,JR-15670
+626,US-2017-123281,2017-04-02,2017-04-07,"Standard Class","United States","Los Angeles",California,90008,West,JF-15190
+627,CA-2017-100524,2017-03-31,2017-04-02,"Second Class","United States","New York City","New York",10011,East,CM-12115
+628,CA-2017-113481,2017-01-02,2017-01-04,"First Class","United States",Jacksonville,"North Carolina",28540,South,AS-10045
+629,CA-2015-131758,2015-05-28,2015-06-01,"Standard Class","United States",Freeport,"New York",11520,East,KB-16315
+630,CA-2014-118339,2014-03-17,2014-03-24,"Standard Class","United States",Lakeville,Minnesota,55044,Central,BN-11515
+631,CA-2014-153976,2014-10-03,2014-10-08,"Second Class","United States",Evanston,Illinois,60201,Central,BP-11290
+632,CA-2016-162901,2016-03-28,2016-03-31,"First Class","United States",Arlington,Virginia,22204,South,AS-10045
+633,CA-2017-162978,2017-05-04,2017-05-09,"Standard Class","United States","San Francisco",California,94109,West,LW-16990
+634,US-2014-160444,2014-07-05,2014-07-05,"Same Day","United States",Houston,Texas,77036,Central,DC-12850
+635,CA-2016-145247,2016-05-05,2016-05-07,"First Class","United States",Louisville,Kentucky,40214,South,ND-18370
+636,CA-2017-160045,2017-04-26,2017-04-27,"First Class","United States","Fort Worth",Texas,76106,Central,LB-16735
+637,US-2014-151925,2014-09-26,2014-10-01,"Second Class","United States","Los Angeles",California,90049,West,KT-16465
+638,CA-2017-125199,2017-10-19,2017-10-25,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East,HM-14860
+639,US-2017-155425,2017-11-10,2017-11-11,"First Class","United States",Tucson,Arizona,85705,West,AB-10600
+640,CA-2017-133249,2017-07-08,2017-07-11,"First Class","United States","Pico Rivera",California,90660,West,SZ-20035
+641,US-2015-103471,2015-12-24,2015-12-28,"Standard Class","United States","Colorado Springs",Colorado,80906,West,JR-15670
+642,CA-2017-136672,2017-03-07,2017-03-12,"Standard Class","United States",Clinton,Maryland,20735,East,MG-17890
+643,US-2014-157021,2014-04-01,2014-04-06,"Second Class","United States",Vallejo,California,94591,West,KM-16720
+644,CA-2015-120362,2015-09-14,2015-09-19,"Standard Class","United States",Provo,Utah,84604,West,CA-12265
+645,CA-2014-126361,2014-08-04,2014-08-09,"Second Class","United States","Pleasant Grove",Utah,84062,West,VD-21670
+646,US-2016-100566,2016-09-03,2016-09-09,"Standard Class","United States",Aurora,Illinois,60505,Central,JK-16120
+647,US-2016-108504,2016-02-05,2016-02-05,"Same Day","United States",Smyrna,Georgia,30080,South,PP-18955
+648,CA-2017-124828,2017-07-03,2017-07-04,"First Class","United States",Burlington,"North Carolina",27217,South,YS-21880
+649,US-2017-117247,2017-10-09,2017-10-14,"Standard Class","United States",Aurora,Illinois,60505,Central,CK-12760
+650,CA-2016-124485,2016-11-24,2016-11-26,"First Class","United States","New York City","New York",10035,East,NC-18340
+651,CA-2016-159212,2016-11-01,2016-11-05,"Standard Class","United States",Salem,Virginia,24153,South,KM-16375
+652,US-2016-161396,2016-04-19,2016-04-25,"Standard Class","United States",Columbus,Ohio,43229,East,GM-14455
+653,US-2014-118486,2014-04-06,2014-04-08,"First Class","United States",Philadelphia,Pennsylvania,19143,East,SD-20485
+654,CA-2016-130407,2016-09-02,2016-09-06,"Standard Class","United States","New York City","New York",10024,East,KD-16270
+655,US-2016-122245,2016-09-25,2016-09-30,"Standard Class","United States",Phoenix,Arizona,85023,West,AB-10105
+656,CA-2017-105144,2017-11-04,2017-11-11,"Standard Class","United States","Grand Prairie",Texas,75051,Central,SZ-20035
+657,CA-2016-136329,2016-07-09,2016-07-13,"Standard Class","United States","New York City","New York",10035,East,JD-15895
+658,CA-2014-146640,2014-06-30,2014-07-05,"Standard Class","United States","New York City","New York",10024,East,HA-14905
+659,CA-2017-115994,2017-01-28,2017-01-31,"Second Class","United States","Costa Mesa",California,92627,West,BT-11305
+660,CA-2015-126697,2015-09-21,2015-09-24,"First Class","United States",Houston,Texas,77041,Central,SV-20815
+661,CA-2015-124800,2015-09-26,2015-09-30,"Standard Class","United States",Mesa,Arizona,85204,West,RW-19540
+662,US-2015-164448,2015-10-31,2015-11-04,"Second Class","United States",Salinas,California,93905,West,DK-12835
+663,CA-2017-122700,2017-11-26,2017-11-30,"Standard Class","United States",Columbus,Ohio,43229,East,LT-17110
+664,CA-2014-120768,2014-12-19,2014-12-21,"Second Class","United States",Florence,Alabama,35630,South,IM-15070
+665,US-2016-153129,2016-12-26,2016-12-30,"Standard Class","United States",Seattle,Washington,98105,West,FP-14320
+666,CA-2017-106852,2017-06-20,2017-06-27,"Standard Class","United States",Parma,Ohio,44134,East,ST-20530
+667,CA-2015-139731,2015-10-15,2015-10-15,"Same Day","United States",Amarillo,Texas,79109,Central,JE-15745
+668,CA-2017-122735,2017-04-12,2017-04-15,"Second Class","United States",Providence,"Rhode Island",2908,East,BD-11320
+669,CA-2017-128160,2017-12-19,2017-12-24,"Second Class","United States","San Francisco",California,94110,West,MM-17920
+670,CA-2017-117695,2017-08-05,2017-08-08,"First Class","United States",Richmond,Kentucky,40475,South,PW-19030
+671,CA-2015-166135,2015-10-01,2015-10-06,"Standard Class","United States",Aurora,Colorado,80013,West,SC-20440
+672,CA-2016-133725,2016-05-23,2016-05-28,"Standard Class","United States",Chicago,Illinois,60623,Central,KL-16645
+673,CA-2017-102337,2017-06-13,2017-06-16,"First Class","United States",Chicago,Illinois,60653,Central,SD-20485
+674,US-2014-112564,2014-04-23,2014-04-24,"First Class","United States",Philadelphia,Pennsylvania,19134,East,TS-21160
+675,CA-2015-145821,2015-05-01,2015-05-07,"Standard Class","United States","Los Angeles",California,90008,West,JB-15400
+676,US-2015-160150,2015-07-19,2015-07-20,"First Class","United States",Phoenix,Arizona,85023,West,TS-21085
+677,CA-2016-133711,2016-11-26,2016-11-29,"First Class","United States",Mobile,Alabama,36608,South,MC-17425
+678,CA-2017-148474,2017-06-12,2017-06-19,"Standard Class","United States",Columbus,Georgia,31907,South,ME-17320
+679,CA-2015-111297,2015-08-17,2015-08-21,"Standard Class","United States","New Bedford",Massachusetts,2740,East,SC-20440
+680,CA-2016-123722,2016-09-25,2016-10-01,"Standard Class","United States",Irving,Texas,75061,Central,NH-18610
+681,CA-2014-155271,2014-05-04,2014-05-04,"Same Day","United States",Middletown,Connecticut,6457,East,AA-10480
+682,CA-2015-119907,2015-12-01,2015-12-08,"Standard Class","United States",Seattle,Washington,98103,West,LC-17140
+683,US-2016-128902,2016-03-11,2016-03-15,"Standard Class","United States",Vineland,"New Jersey",8360,East,MB-18085
+684,CA-2016-152289,2016-08-26,2016-08-28,"First Class","United States",Pasadena,Texas,77506,Central,LC-16930
+685,US-2016-104794,2016-12-16,2016-12-19,"First Class","United States","New York City","New York",10009,East,KD-16495
+686,CA-2014-151708,2014-08-08,2014-08-14,"Standard Class","United States",Glendale,Arizona,85301,West,MB-17305
+687,CA-2015-100769,2015-05-16,2015-05-16,"Same Day","United States",Jacksonville,Florida,32216,South,TH-21550
+688,CA-2017-139199,2017-12-09,2017-12-13,"Standard Class","United States",Detroit,Michigan,48234,Central,DK-12835
+689,US-2015-161466,2015-09-24,2015-09-27,"Second Class","United States",Philadelphia,Pennsylvania,19120,East,ON-18715
+690,CA-2017-164959,2017-07-11,2017-07-15,"Standard Class","United States","Los Angeles",California,90004,West,KN-16390
+691,US-2015-105676,2015-12-01,2015-12-02,"Same Day","United States",Houston,Texas,77036,Central,NM-18520
+692,CA-2016-113138,2016-11-19,2016-11-25,"Standard Class","United States","Niagara Falls","New York",14304,East,NP-18685
+693,US-2017-104955,2017-03-19,2017-03-24,"Standard Class","United States","New York City","New York",10024,East,CG-12040
+694,CA-2016-121958,2016-11-13,2016-11-17,"Standard Class","United States",Thomasville,"North Carolina",27360,South,CS-12505
+695,CA-2017-121468,2017-11-19,2017-11-20,"First Class","United States",Westminster,California,92683,West,KD-16345
+696,US-2016-108455,2016-12-02,2016-12-08,"Standard Class","United States","San Francisco",California,94122,West,MK-18160
+697,CA-2017-101210,2017-08-25,2017-08-28,"Second Class","United States",Jackson,Tennessee,38301,South,DW-13540
+698,US-2016-108098,2016-10-14,2016-10-18,"Standard Class","United States",Seattle,Washington,98115,West,CP-12340
+699,CA-2014-119032,2014-11-27,2014-12-03,"Standard Class","United States","New York City","New York",10035,East,MS-17770
+700,CA-2015-140410,2015-11-03,2015-11-07,"Standard Class","United States","Los Angeles",California,90008,West,CM-12655
+701,CA-2014-136280,2014-11-29,2014-12-06,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East,Co-12640
+702,CA-2017-151911,2017-04-30,2017-05-05,"Second Class","United States","New York City","New York",10024,East,DL-13495
+703,CA-2017-166436,2017-11-24,2017-11-28,"Standard Class","United States","New York City","New York",10035,East,TS-21370
+704,CA-2017-139661,2017-10-30,2017-11-03,"Standard Class","United States",Vancouver,Washington,98661,West,JW-15220
+705,CA-2014-123925,2014-12-17,2014-12-19,"Second Class","United States",Columbus,Georgia,31907,South,RF-19840
+706,CA-2017-152485,2017-09-04,2017-09-08,"Standard Class","United States",Coppell,Texas,75019,Central,JD-15790
+707,CA-2016-141586,2016-10-17,2016-10-20,"First Class","United States","San Francisco",California,94122,West,NK-18490
+708,CA-2017-130386,2017-11-12,2017-11-18,"Standard Class","United States",Austin,Texas,78745,Central,NG-18430
+709,CA-2016-100468,2016-11-24,2016-12-01,"Standard Class","United States","Los Angeles",California,90045,West,AT-10435
+710,CA-2015-153388,2015-08-01,2015-08-07,"Standard Class","United States","Los Angeles",California,90004,West,PC-19000
+711,CA-2017-154935,2017-12-24,2017-12-29,"Standard Class","United States","New York City","New York",10024,East,AR-10540
+712,CA-2016-134208,2016-09-17,2016-09-23,"Standard Class","United States",Columbus,Georgia,31907,South,CS-12505
+713,CA-2017-108294,2017-12-10,2017-12-10,"Same Day","United States",Omaha,Nebraska,68104,Central,LS-16975
+714,CA-2017-103611,2017-09-12,2017-09-15,"First Class","United States","Los Angeles",California,90036,West,JM-15535
+715,CA-2017-100384,2017-06-24,2017-07-01,"Standard Class","United States",Pomona,California,91767,West,NH-18610
+716,CA-2017-112809,2017-08-18,2017-08-22,"Standard Class","United States",Dallas,Texas,75220,Central,RA-19915
+717,US-2017-160759,2017-12-11,2017-12-17,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East,AI-10855
+718,CA-2017-148446,2017-12-10,2017-12-14,"Second Class","United States","North Las Vegas",Nevada,89031,West,MC-17845
+719,CA-2014-111059,2014-02-03,2014-02-06,"Second Class","United States",Seattle,Washington,98105,West,TB-21400
+720,CA-2017-109946,2017-04-16,2017-04-21,"Standard Class","United States",Chicago,Illinois,60610,Central,PL-18925
+721,CA-2015-144806,2015-12-06,2015-12-11,"Standard Class","United States",Tucson,Arizona,85705,West,GH-14425
+722,CA-2016-122392,2016-07-22,2016-07-27,"Standard Class","United States",Allentown,Pennsylvania,18103,East,CJ-12010
+723,CA-2015-148432,2015-11-07,2015-11-10,"Second Class","United States",Newark,Delaware,19711,East,MC-18130
+724,CA-2015-103793,2015-03-26,2015-03-31,"Standard Class","United States",Miami,Florida,33142,South,BV-11245
+725,CA-2017-159884,2017-08-31,2017-09-05,"Standard Class","United States",Tempe,Arizona,85281,West,JF-15490
+726,CA-2016-139885,2016-12-04,2016-12-08,"Standard Class","United States","New York City","New York",10035,East,EB-13840
+727,CA-2017-124086,2017-02-10,2017-02-14,"Standard Class","United States","Laguna Niguel",California,92677,West,MP-18175
+728,CA-2016-112389,2016-10-29,2016-11-02,"Standard Class","United States",Bridgeton,"New Jersey",8302,East,JM-15655
+729,CA-2017-121888,2017-09-15,2017-09-17,"Second Class","United States",Everett,Massachusetts,2149,East,CL-11890
+730,CA-2014-166884,2014-03-11,2014-03-16,"Second Class","United States",Columbus,Ohio,43229,East,CK-12205
+731,CA-2014-107181,2014-02-04,2014-02-08,"Standard Class","United States","San Diego",California,92024,West,DB-13270
+732,CA-2014-150245,2014-12-31,2015-01-04,"Second Class","United States",Watertown,"New York",13601,East,PC-18745
+733,CA-2015-111395,2015-11-23,2015-11-27,"Standard Class","United States","San Antonio",Texas,78207,Central,VB-21745
+734,CA-2014-134278,2014-07-06,2014-07-08,"First Class","United States","New York City","New York",10011,East,EP-13915
+735,US-2017-124926,2017-11-13,2017-11-18,"Second Class","United States",Houston,Texas,77095,Central,ME-17320
+736,CA-2016-159345,2016-06-17,2016-06-22,"Standard Class","United States","San Diego",California,92024,West,IG-15085
+737,CA-2014-130274,2014-05-03,2014-05-05,"First Class","United States",Appleton,Wisconsin,54915,Central,JS-15940
+738,CA-2017-158386,2017-10-16,2017-10-21,"Standard Class","United States",Richmond,Kentucky,40475,South,BO-11425
+739,CA-2015-111507,2015-02-06,2015-02-13,"Standard Class","United States",Bellevue,Washington,98006,West,VW-21775
+740,CA-2017-120761,2017-09-04,2017-09-08,"Standard Class","United States","Long Beach","New York",11561,East,AB-10150
+741,CA-2016-109176,2016-05-09,2016-05-15,"Standard Class","United States",Philadelphia,Pennsylvania,19140,East,JW-16075
+742,CA-2015-112116,2015-03-16,2015-03-18,"Second Class","United States",Seattle,Washington,98103,West,JE-15475
+743,CA-2014-105172,2014-04-04,2014-04-09,"Standard Class","United States","San Francisco",California,94109,West,PK-18910
+744,CA-2017-107293,2017-09-05,2017-09-06,"First Class","United States",Seattle,Washington,98115,West,CS-12400
+745,US-2017-102890,2017-06-30,2017-06-30,"Same Day","United States","New York City","New York",10011,East,SG-20470
+746,CA-2015-158554,2015-11-09,2015-11-09,"Same Day","United States",Philadelphia,Pennsylvania,19134,East,CM-12190
+747,CA-2014-116239,2014-03-04,2014-03-04,"Same Day","United States",Columbia,"South Carolina",29203,South,CL-12565
+748,CA-2015-132101,2015-03-19,2015-03-25,"Standard Class","United States",Seattle,Washington,98105,West,JO-15550
+749,CA-2015-129112,2015-11-29,2015-11-30,"First Class","United States",Allen,Texas,75002,Central,AW-10840
+750,US-2017-152002,2017-06-11,2017-06-11,"Same Day","United States","Los Angeles",California,90004,West,DV-13465
+751,CA-2017-165029,2017-11-26,2017-11-30,"Standard Class","United States",Atlanta,Georgia,30318,South,AH-10075
+752,US-2014-157385,2014-11-23,2014-11-25,"First Class","United States","Los Angeles",California,90004,West,SC-20095
+753,CA-2014-101602,2014-12-15,2014-12-18,"First Class","United States","El Paso",Texas,79907,Central,MC-18100
+754,CA-2016-109057,2016-04-22,2016-04-27,"Standard Class","United States",Aurora,Illinois,60505,Central,TT-21460
+755,CA-2016-154403,2016-05-23,2016-05-27,"Standard Class","United States",Florence,Alabama,35630,South,AP-10720
+756,CA-2016-102456,2016-02-27,2016-03-01,"First Class","United States","New York City","New York",10011,East,DL-12865
+757,CA-2015-131338,2015-08-09,2015-08-12,"First Class","United States","New York City","New York",10024,East,NP-18325
+758,CA-2016-109911,2016-05-12,2016-05-16,"Standard Class","United States","Virginia Beach",Virginia,23464,South,VG-21805
+759,US-2016-132423,2016-04-15,2016-04-19,"Standard Class","United States",Grapevine,Texas,76051,Central,MY-18295
+760,CA-2015-122826,2015-06-23,2015-06-25,"Second Class","United States",Olympia,Washington,98502,West,RD-19480
+761,CA-2014-117317,2014-10-19,2014-10-19,"Same Day","United States","Los Angeles",California,90032,West,JF-15490
+762,CA-2015-118423,2015-03-24,2015-03-27,"First Class","United States",Peoria,Illinois,61604,Central,DP-13390
+763,CA-2017-149181,2017-05-08,2017-05-12,"Standard Class","United States",Columbus,Ohio,43229,East,MD-17350
+764,CA-2017-132234,2017-10-16,2017-10-18,"First Class","United States","New York City","New York",10011,East,MY-17380
+765,CA-2017-158876,2017-11-19,2017-11-21,"Second Class","United States",Carrollton,Texas,75007,Central,AB-10150
+766,US-2016-132857,2016-12-11,2016-12-17,"Standard Class","United States",Smyrna,Tennessee,37167,South,CA-12775
+767,CA-2017-116645,2017-11-30,2017-12-04,"Standard Class","United States",Newark,Delaware,19711,East,ME-17725
+768,US-2016-115819,2016-04-19,2016-04-24,"Second Class","United States","Los Angeles",California,90049,West,JO-15280
+769,CA-2014-156349,2014-05-26,2014-05-30,"Standard Class","United States","Los Angeles",California,90008,West,ML-17395
+770,CA-2017-138380,2017-12-21,2017-12-25,"Standard Class","United States",Oakland,California,94601,West,YS-21880
+771,US-2016-113509,2016-03-15,2016-03-19,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East,PL-18925
+772,CA-2015-130022,2015-08-10,2015-08-16,"Standard Class","United States",Eagan,Minnesota,55122,Central,JK-16120
+773,US-2016-118780,2016-09-10,2016-09-14,"Second Class","United States","New York City","New York",10011,East,PN-18775
+774,CA-2017-108560,2017-07-08,2017-07-15,"Standard Class","United States",Kent,Washington,98031,West,JC-15385
+775,CA-2015-157084,2015-12-19,2015-12-24,"Standard Class","United States","Los Angeles",California,90049,West,JG-15160
+776,CA-2015-164539,2015-11-16,2015-11-22,"Standard Class","United States","New York City","New York",10011,East,PO-19180
+777,CA-2015-143119,2015-09-24,2015-09-30,"Standard Class","United States",Lafayette,Louisiana,70506,South,MC-17275
+778,CA-2017-101049,2017-06-21,2017-06-25,"Second Class","United States",Cleveland,Ohio,44105,East,AS-10240
+779,CA-2016-106530,2016-05-08,2016-05-08,"Same Day","United States",Cleveland,Ohio,44105,East,CL-12565
+780,CA-2014-168984,2014-11-26,2014-12-02,"Standard Class","United States",Tigard,Oregon,97224,West,NW-18400
+781,CA-2016-157266,2016-05-26,2016-06-01,"Standard Class","United States",Washington,"District of Columbia",20016,East,TB-21280
+782,US-2014-134712,2014-11-29,2014-12-04,"Standard Class","United States",Skokie,Illinois,60076,Central,BS-11380
+783,CA-2015-111829,2015-03-19,2015-03-20,"First Class","United States",Seattle,Washington,98115,West,FH-14365
+784,CA-2015-105221,2015-11-01,2015-11-03,"First Class","United States",Philadelphia,Pennsylvania,19140,East,VM-21685
+785,CA-2015-120341,2015-09-26,2015-09-29,"Second Class","United States",Philadelphia,Pennsylvania,19143,East,SF-20200
+786,CA-2014-135699,2014-08-29,2014-08-29,"Same Day","United States","San Francisco",California,94110,West,HH-15010
+787,US-2017-132444,2017-11-18,2017-11-21,"First Class","United States",Seattle,Washington,98105,West,CD-12280
+788,CA-2014-127159,2014-05-12,2014-05-15,"First Class","United States",Milwaukee,Wisconsin,53209,Central,HL-15040
+789,CA-2017-161809,2017-01-20,2017-01-26,"Standard Class","United States","Los Angeles",California,90045,West,TH-21100
+790,CA-2017-127285,2017-10-30,2017-11-06,"Standard Class","United States",Seattle,Washington,98115,West,MM-18055
+791,CA-2017-144526,2017-04-30,2017-05-06,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East,QJ-19255
+792,CA-2016-128531,2016-11-24,2016-11-26,"Second Class","United States",Dallas,Texas,75217,Central,NS-18505
+793,US-2015-157154,2015-01-10,2015-01-15,"Standard Class","United States","New York City","New York",10011,East,MM-17920
+794,CA-2017-159457,2017-10-19,2017-10-26,"Standard Class","United States",Houston,Texas,77095,Central,RD-19480
+795,CA-2016-107615,2016-03-22,2016-03-25,"First Class","United States","North Las Vegas",Nevada,89031,West,RB-19645
+796,CA-2017-111647,2017-07-03,2017-07-07,"Standard Class","United States",Plano,Texas,75023,Central,RD-19585
+797,CA-2015-150560,2015-12-11,2015-12-12,"First Class","United States",Suffolk,Virginia,23434,South,SW-20455
+798,CA-2015-143077,2015-09-17,2015-09-21,"Standard Class","United States",Houston,Texas,77041,Central,SF-20965
+799,CA-2016-122728,2016-05-18,2016-05-24,"Standard Class","United States","San Francisco",California,94110,West,EB-13930
+800,CA-2014-122882,2014-09-07,2014-09-13,"Standard Class","United States",Philadelphia,Pennsylvania,19134,East,SB-20290
+801,US-2016-101497,2016-09-29,2016-10-01,"Second Class","United States","Los Angeles",California,90008,West,PS-18760
+802,CA-2016-147585,2016-11-07,2016-11-12,"Standard Class","United States","San Francisco",California,94110,West,CB-12535
+803,CA-2017-149489,2017-04-24,2017-04-27,"First Class","United States",Philadelphia,Pennsylvania,19143,East,DK-12835
+804,CA-2017-143798,2017-12-10,2017-12-12,"First Class","United States",Philadelphia,Pennsylvania,19140,East,AW-10840
+805,CA-2014-142839,2014-08-16,2014-08-20,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East,TS-21610
+806,CA-2017-129833,2017-12-09,2017-12-15,"Standard Class","United States",Indianapolis,Indiana,46203,Central,HF-14995
+807,US-2016-154361,2016-03-14,2016-03-19,"Standard Class","United States",Columbus,Ohio,43229,East,HZ-14950
+808,US-2016-158708,2016-06-26,2016-06-29,"Second Class","United States",Plano,Texas,75023,Central,AB-10255
+809,CA-2015-156335,2015-09-25,2015-09-28,"Second Class","United States",Bayonne,"New Jersey",7002,East,PO-19195
+810,CA-2015-148376,2015-12-27,2015-12-31,"Standard Class","United States","Los Angeles",California,90008,West,AG-10900
+811,CA-2014-135657,2014-06-03,2014-06-07,"Second Class","United States",Seattle,Washington,98115,West,SC-20725
+812,CA-2015-114069,2015-07-13,2015-07-15,"Second Class","United States","New York City","New York",10035,East,ND-18370
+813,CA-2014-139857,2014-02-02,2014-02-06,"Standard Class","United States","San Diego",California,92037,West,CD-12790
+814,CA-2016-106306,2016-03-08,2016-03-08,"Same Day","United States",Glendale,Arizona,85301,West,PG-18820
+815,CA-2015-100545,2015-11-22,2015-11-26,"Standard Class","United States",Philadelphia,Pennsylvania,19120,East,IM-15070
+816,CA-2017-123491,2017-10-30,2017-11-05,"Standard Class","United States","San Francisco",California,94122,West,JK-15205
+817,CA-2015-145401,2015-01-30,2015-02-04,"Standard Class","United States",Houston,Texas,77070,Central,JP-15520
+818,US-2017-124968,2017-09-08,2017-09-13,"Second Class","United States",Chicago,Illinois,60610,Central,MM-18055
+819,CA-2017-104003,2017-10-07,2017-10-13,"Standard Class","United States","San Francisco",California,94110,West,DC-13285
+820,CA-2016-154788,2016-04-30,2016-05-04,"Standard Class","United States","New York City","New York",10011,East,JL-15835
+821,CA-2016-169943,2016-05-19,2016-05-24,"Standard Class","United States","New York City","New York",10011,East,BN-11515
+822,US-2015-123218,2015-12-20,2015-12-25,"Standard Class","United States",Chicago,Illinois,60623,Central,KD-16345
+823,CA-2015-127453,2015-12-19,2015-12-20,"First Class","United States",Philadelphia,Pennsylvania,19143,East,JK-15370
+824,US-2017-164056,2017-04-29,2017-05-04,"Second Class","United States",Dublin,Ohio,43017,East,FM-14215
+825,CA-2016-106894,2016-02-07,2016-02-07,"Same Day","United States",Springfield,Virginia,22153,South,CA-12265
+826,CA-2014-125136,2014-09-28,2014-10-03,"Standard Class","United States",Fayetteville,"North Carolina",28314,South,KD-16495
+827,US-2016-131149,2016-07-10,2016-07-14,"Standard Class","United States",Dallas,Texas,75081,Central,LH-17155
+828,CA-2017-101483,2017-07-29,2017-08-01,"Second Class","United States",Jacksonville,"North Carolina",28540,South,AG-10675
+829,CA-2015-130204,2015-09-03,2015-09-09,"Standard Class","United States","San Francisco",California,94122,West,DB-13120
+830,CA-2014-110527,2014-08-09,2014-08-16,"Standard Class","United States","San Diego",California,92037,West,ED-13885
+831,CA-2017-152807,2017-10-30,2017-11-03,"Standard Class","United States",Philadelphia,Pennsylvania,19140,East,MC-18100
+832,CA-2014-133270,2014-06-06,2014-06-09,"First Class","United States",Rochester,"New York",14609,East,BM-11785
+833,CA-2016-155670,2016-08-13,2016-08-17,"Second Class","United States",Jacksonville,"North Carolina",28540,South,EM-14065
+834,US-2014-157406,2014-04-25,2014-04-29,"Standard Class","United States",Houston,Texas,77095,Central,DA-13450
+835,CA-2015-139094,2015-11-22,2015-11-27,"Standard Class","United States","San Antonio",Texas,78207,Central,MO-17800
+836,CA-2017-168837,2017-10-14,2017-10-17,"First Class","United States",Oakland,California,94601,West,JW-15955
+837,CA-2017-116715,2017-12-02,2017-12-05,"First Class","United States","San Francisco",California,94122,West,VW-21775
+838,CA-2015-135622,2015-12-08,2015-12-11,"Second Class","United States","Fort Worth",Texas,76106,Central,TT-21460
+839,US-2015-107349,2015-07-13,2015-07-15,"First Class","United States",Houston,Texas,77095,Central,SL-20155
+840,CA-2014-139017,2014-05-11,2014-05-17,"Standard Class","United States",Houston,Texas,77095,Central,RM-19375
+841,CA-2014-141817,2014-01-05,2014-01-12,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East,MB-18085
+842,CA-2015-130785,2015-09-05,2015-09-09,"Standard Class","United States","San Diego",California,92105,West,AG-10900
+843,CA-2016-110254,2016-08-04,2016-08-08,"Standard Class","United States",Suffolk,Virginia,23434,South,ML-17755
+844,US-2014-158057,2014-03-22,2014-03-26,"Standard Class","United States",Greensboro,"North Carolina",27405,South,CC-12685
+845,CA-2017-146024,2017-03-02,2017-03-08,"Standard Class","United States",Dallas,Texas,75081,Central,SC-20770
+846,CA-2016-129686,2016-11-27,2016-11-29,"Second Class","United States",Chicago,Illinois,60623,Central,GG-14650
+847,CA-2014-118976,2014-04-28,2014-05-03,"Standard Class","United States",Baltimore,Maryland,21215,East,MY-18295
+848,CA-2015-105347,2015-11-24,2015-11-28,"Standard Class","United States","Los Angeles",California,90004,West,DP-13000
+849,CA-2016-124667,2016-11-11,2016-11-16,"Standard Class","United States","New York City","New York",10011,East,BD-11770
+850,CA-2015-111094,2015-07-09,2015-07-13,"Standard Class","United States",Franklin,Massachusetts,2038,East,CB-12535
+851,CA-2017-166317,2017-09-22,2017-09-26,"Standard Class","United States",Milwaukee,Wisconsin,53209,Central,JE-15610
+852,CA-2015-154326,2015-02-15,2015-02-19,"Standard Class","United States",Kenosha,Wisconsin,53142,Central,RP-19855
+853,CA-2014-102008,2014-09-30,2014-10-04,"Standard Class","United States","New York City","New York",10011,East,RA-19915
+854,CA-2014-120474,2014-12-01,2014-12-03,"First Class","United States",Madison,Wisconsin,53711,Central,RP-19390
+855,CA-2014-104773,2014-12-08,2014-12-13,"Standard Class","United States",Houston,Texas,77041,Central,TB-21175
+856,CA-2016-140774,2016-09-05,2016-09-10,"Standard Class","United States",Olathe,Kansas,66062,Central,BE-11455
+857,US-2017-139465,2017-08-27,2017-08-30,"First Class","United States","New York City","New York",10024,East,MR-17545
+858,CA-2016-100965,2016-07-07,2016-07-11,"Standard Class","United States","San Jose",California,95123,West,RM-19375
+859,CA-2016-121034,2016-08-08,2016-08-10,"Second Class","United States",Dallas,Texas,75081,Central,JF-15565
+860,CA-2016-149461,2016-11-13,2016-11-19,"Standard Class","United States",Auburn,Washington,98002,West,AS-10135
+861,CA-2017-158379,2017-09-22,2017-09-26,"Second Class","United States",Philadelphia,Pennsylvania,19134,East,JA-15970
+862,US-2016-116729,2016-12-25,2016-12-28,"First Class","United States","Los Angeles",California,90049,West,GK-14620
+863,CA-2016-164938,2016-02-11,2016-02-13,"First Class","United States",Tulsa,Oklahoma,74133,Central,PB-19210
+864,CA-2016-165484,2016-10-23,2016-10-29,"Standard Class","United States",Chicago,Illinois,60610,Central,HK-14890
+865,CA-2014-132612,2014-06-09,2014-06-11,"Second Class","United States",Harrisonburg,Virginia,22801,South,FO-14305
+866,US-2017-161193,2017-11-20,2017-11-26,"Standard Class","United States",Newark,Ohio,43055,East,BT-11680
+867,CA-2015-131597,2015-09-14,2015-09-18,"Standard Class","United States","Los Angeles",California,90045,West,SP-20620
+868,CA-2015-164833,2015-06-04,2015-06-04,"Same Day","United States",Seattle,Washington,98105,West,LL-16840
+869,CA-2015-125423,2015-12-13,2015-12-15,"Second Class","United States","Los Angeles",California,90036,West,MC-17575
+870,US-2014-130379,2014-05-25,2014-05-29,"Standard Class","United States",Chicago,Illinois,60623,Central,JL-15235
+871,CA-2016-168956,2016-02-16,2016-02-20,"Standard Class","United States",Chicago,Illinois,60623,Central,EA-14035
+872,CA-2016-167507,2016-12-22,2016-12-28,"Standard Class","United States",Redmond,Oregon,97756,West,SA-20830
+873,CA-2016-109344,2016-02-08,2016-02-11,"Second Class","United States",Raleigh,"North Carolina",27604,South,CH-12070
+874,US-2015-140851,2015-07-13,2015-07-15,"Second Class","United States",Macon,Georgia,31204,South,ND-18460
+875,CA-2014-103373,2014-05-18,2014-05-24,"Standard Class","United States",Cleveland,Ohio,44105,East,BS-11755
+876,CA-2017-145884,2017-10-21,2017-10-21,"Same Day","United States",Muskogee,Oklahoma,74403,Central,SL-20155
+877,CA-2015-131422,2015-11-05,2015-11-09,"Standard Class","United States",Monroe,"North Carolina",28110,South,GB-14530
+878,CA-2017-162691,2017-08-01,2017-08-07,"Standard Class","United States",Austin,Texas,78745,Central,AS-10045
+879,CA-2014-141278,2014-06-21,2014-06-24,"First Class","United States",Meriden,Connecticut,6450,East,RM-19375
+880,CA-2017-122693,2017-02-19,2017-02-21,"Second Class","United States",Roswell,Georgia,30076,South,NH-18610
+881,CA-2014-117345,2014-08-01,2014-08-05,"Standard Class","United States",Charlotte,"North Carolina",28205,South,BF-10975
+882,CA-2016-157763,2016-07-18,2016-07-23,"Standard Class","United States","Bowling Green",Kentucky,42104,South,KH-16330
+883,CA-2015-135391,2015-02-09,2015-02-11,"Second Class","United States","San Antonio",Texas,78207,Central,FA-14230
+884,US-2017-113852,2017-07-29,2017-08-02,"Standard Class","United States",Seattle,Washington,98115,West,GW-14605
+885,US-2017-158512,2017-01-12,2017-01-17,"Second Class","United States",Washington,"District of Columbia",20016,East,DA-13450
+886,CA-2017-128370,2017-09-10,2017-09-10,"Same Day","United States","Los Angeles",California,90004,West,FH-14275
+887,CA-2015-160472,2015-07-20,2015-07-25,"Second Class","United States","South Bend",Indiana,46614,Central,RK-19300
+888,CA-2014-114643,2014-06-13,2014-06-17,"Standard Class","United States","Los Angeles",California,90032,West,FM-14215
+889,US-2017-158218,2017-05-12,2017-05-15,"Second Class","United States",Houston,Texas,77041,Central,AC-10420
+890,CA-2015-121608,2015-09-03,2015-09-05,"First Class","United States",Bristol,Connecticut,6010,East,JB-15400
+891,US-2017-121251,2017-03-26,2017-03-27,"First Class","United States","New York City","New York",10009,East,GM-14440
+892,CA-2014-151078,2014-11-12,2014-11-12,"Same Day","United States","San Antonio",Texas,78207,Central,RF-19840
+893,US-2016-100839,2016-10-13,2016-10-17,"Standard Class","United States",Aurora,Colorado,80013,West,NC-18625
+894,US-2017-116659,2017-11-12,2017-11-12,"Same Day","United States",Newark,Ohio,43055,East,NG-18355
+895,CA-2017-118857,2017-04-15,2017-04-18,"First Class","United States",Henderson,Nevada,89015,West,AH-10075
+896,CA-2015-127110,2015-06-25,2015-07-01,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East,CH-12070
+897,CA-2016-148201,2016-08-26,2016-08-29,"Second Class","United States",Seattle,Washington,98103,West,CC-12145
+898,CA-2014-116932,2014-07-21,2014-07-25,"Standard Class","United States","San Francisco",California,94122,West,ME-18010
+899,CA-2017-142888,2017-11-21,2017-11-25,"Standard Class","United States",Spokane,Washington,99207,West,BP-11230
+900,CA-2014-147914,2014-06-04,2014-06-09,"Standard Class","United States",Columbus,Ohio,43229,East,MP-17470
+901,US-2016-112977,2016-03-10,2016-03-16,"Standard Class","United States","Long Beach","New York",11561,East,CJ-12010
+902,CA-2017-112039,2017-03-25,2017-03-29,"Standard Class","United States","San Antonio",Texas,78207,Central,JC-15775
+903,CA-2017-118885,2017-12-29,2018-01-02,"Standard Class","United States","Los Angeles",California,90049,West,JG-15160
+904,US-2017-166611,2017-03-28,2017-04-02,"Standard Class","United States",Jacksonville,Florida,32216,South,CK-12760
+905,CA-2015-109512,2015-03-05,2015-03-05,"Same Day","United States","New York City","New York",10011,East,LF-17185
+906,CA-2016-118570,2016-11-13,2016-11-17,"Standard Class","United States",Philadelphia,Pennsylvania,19143,East,CC-12430
+907,CA-2017-154718,2017-01-19,2017-01-23,"Second Class","United States",Keller,Texas,76248,Central,DL-12865
+908,CA-2016-147578,2016-04-22,2016-04-26,"Second Class","United States","San Francisco",California,94122,West,PG-18895
+909,CA-2014-140165,2014-05-13,2014-05-15,"First Class","United States",Hialeah,Florida,33012,South,EH-14005
+910,CA-2014-142587,2014-10-21,2014-10-22,"First Class","United States",Fairfield,Ohio,45014,East,TB-21520
+911,CA-2014-157623,2014-03-14,2014-03-18,"Standard Class","United States","Huntington Beach",California,92646,West,DK-13225
+912,CA-2017-145310,2017-12-22,2017-12-24,"Second Class","United States","Port Orange",Florida,32127,South,JP-15520
+913,US-2017-108063,2017-12-02,2017-12-05,"First Class","United States",Charlottesville,Virginia,22901,South,AS-10090
+914,CA-2015-109197,2015-12-31,2016-01-04,"Standard Class","United States",Missoula,Montana,59801,West,JO-15280
+915,CA-2017-141789,2017-10-03,2017-10-06,"First Class","United States",Minneapolis,Minnesota,55407,Central,AC-10450
+916,CA-2014-169775,2014-08-29,2014-09-02,"Second Class","United States",Miami,Florida,33178,South,RA-19945
+917,CA-2016-140543,2016-06-29,2016-07-03,"Second Class","United States",Florence,"South Carolina",29501,South,Co-12640
+918,CA-2017-167094,2017-10-21,2017-10-22,"First Class","United States",Springfield,Oregon,97477,West,DK-12835
+919,CA-2017-154410,2017-10-21,2017-10-24,"First Class","United States",Indianapolis,Indiana,46203,Central,MD-17860
+920,US-2016-150567,2016-05-17,2016-05-21,"Standard Class","United States",Apopka,Florida,32712,South,RP-19855
+921,CA-2015-157959,2015-02-03,2015-02-04,"First Class","United States","Los Angeles",California,90008,West,RW-19540
+922,CA-2017-105886,2017-12-18,2017-12-23,"Standard Class","United States",Oceanside,"New York",11572,East,DB-13660
+923,CA-2016-105963,2016-11-15,2016-11-22,"Standard Class","United States","Los Angeles",California,90008,West,SC-20770
+924,CA-2017-121503,2017-07-03,2017-07-06,"Second Class","United States",Houston,Texas,77041,Central,FH-14275
+925,CA-2014-103366,2014-01-15,2014-01-17,"First Class","United States",Roswell,Georgia,30076,South,EH-13990
+926,CA-2017-124597,2017-04-30,2017-05-05,"Standard Class","United States","Boynton Beach",Florida,33437,South,AS-10630
+927,CA-2015-105634,2015-11-08,2015-11-14,"Standard Class","United States",Franklin,Massachusetts,2038,East,HA-14905
+928,CA-2015-123673,2015-10-30,2015-11-01,"Second Class","United States",Detroit,Michigan,48227,Central,CH-12070
+929,US-2017-111423,2017-08-17,2017-08-19,"First Class","United States",Watertown,"New York",13601,East,EH-13765
+930,CA-2015-125178,2015-10-03,2015-10-09,"Standard Class","United States",Reading,Pennsylvania,19601,East,MZ-17515
+931,CA-2016-156685,2016-07-08,2016-07-10,"Second Class","United States",Arlington,Texas,76017,Central,SC-20230
+932,CA-2017-126865,2017-12-05,2017-12-07,"Second Class","United States","San Diego",California,92024,West,NP-18325
+933,CA-2017-102834,2017-03-09,2017-03-13,"Standard Class","United States","San Francisco",California,94110,West,LW-16990
+934,US-2016-139710,2016-06-09,2016-06-15,"Standard Class","United States","Los Angeles",California,90045,West,GM-14680
+935,CA-2017-121538,2017-11-28,2017-12-01,"First Class","United States",Denver,Colorado,80219,West,RH-19495
+936,US-2017-101539,2017-03-16,2017-03-18,"Second Class","United States",Seattle,Washington,98105,West,VM-21685
+937,CA-2016-152121,2016-11-27,2016-11-29,"Second Class","United States",Scottsdale,Arizona,85254,West,CC-12670
+938,CA-2017-161200,2017-08-06,2017-08-10,"Second Class","United States",Lafayette,Louisiana,70506,South,SV-20365
+939,CA-2017-101245,2017-11-27,2017-12-03,"Standard Class","United States","San Francisco",California,94109,West,LW-16990
+940,CA-2015-141768,2015-05-25,2015-05-27,"Second Class","United States","San Francisco",California,94109,West,NP-18685
+941,CA-2016-112109,2016-07-08,2016-07-12,"Standard Class","United States",Broomfield,Colorado,80020,West,JE-15715
+942,CA-2017-144064,2017-08-29,2017-09-01,"First Class","United States",Quincy,Illinois,62301,Central,CP-12085
+943,CA-2016-108581,2016-06-20,2016-06-26,"Standard Class","United States",Carrollton,Texas,75007,Central,EA-14035
+944,CA-2017-157987,2017-09-02,2017-09-06,"Standard Class","United States","New York City","New York",10009,East,AC-10615
+945,CA-2017-110905,2017-09-10,2017-09-15,"Second Class","United States",Springfield,Missouri,65807,Central,RW-19690
+946,CA-2017-165841,2017-12-21,2017-12-28,"Standard Class","United States",Paterson,"New Jersey",7501,East,DB-13210
+947,CA-2017-117485,2017-09-23,2017-09-29,"Standard Class","United States",Tulsa,Oklahoma,74133,Central,BD-11320
+948,CA-2017-140242,2017-05-06,2017-05-11,"Standard Class","United States",Chicago,Illinois,60623,Central,ML-17755
+949,CA-2014-148950,2014-12-14,2014-12-19,"Standard Class","United States",Chicago,Illinois,60610,Central,JD-16015
+950,CA-2014-110408,2014-10-18,2014-10-20,"Second Class","United States",Montgomery,Alabama,36116,South,AS-10225
+951,CA-2015-109939,2015-05-08,2015-05-12,"Standard Class","United States",Salem,Oregon,97301,West,AA-10375
+952,CA-2016-112669,2016-04-14,2016-04-14,"Same Day","United States",Glendale,Arizona,85301,West,KT-16465
+953,CA-2015-119592,2015-12-14,2015-12-16,"Second Class","United States",Columbus,Georgia,31907,South,MM-18280
+954,CA-2014-122749,2014-12-03,2014-12-09,"Standard Class","United States","Oklahoma City",Oklahoma,73120,Central,NG-18430
+955,CA-2014-164721,2014-11-25,2014-11-27,"Second Class","United States",Brentwood,California,94513,West,LW-16825
+956,CA-2016-147417,2016-07-25,2016-07-27,"First Class","United States",Columbus,Ohio,43229,East,CB-12415
+957,CA-2015-127509,2015-11-09,2015-11-13,"Standard Class","United States",Springfield,Missouri,65807,Central,AS-10090
+958,CA-2017-111374,2017-02-24,2017-02-28,"Standard Class","United States",Philadelphia,Pennsylvania,19134,East,CB-12415
+959,CA-2017-133648,2017-06-25,2017-07-02,"Standard Class","United States",Springfield,Oregon,97477,West,ML-17755
+960,US-2017-147221,2017-12-02,2017-12-04,"Second Class","United States",Houston,Texas,77036,Central,JS-16030
+961,CA-2014-131905,2014-02-06,2014-02-09,"First Class","United States",Chesapeake,Virginia,23320,South,ND-18460
+962,CA-2017-166128,2017-04-11,2017-04-18,"Standard Class","United States",Pasadena,California,91104,West,LW-17215
+963,CA-2017-163510,2017-12-25,2017-12-28,"Second Class","United States",Louisville,Kentucky,40214,South,JW-15955
+964,US-2017-143028,2017-04-11,2017-04-18,"Standard Class","United States",Lubbock,Texas,79424,Central,SC-20050
+965,CA-2014-111150,2014-12-31,2015-01-04,"Standard Class","United States",Columbia,Missouri,65203,Central,RW-19630
+966,CA-2017-165386,2017-08-03,2017-08-04,"First Class","United States",Chicago,Illinois,60623,Central,CM-12190
+967,CA-2014-116407,2014-11-15,2014-11-21,"Standard Class","United States","Johnson City",Tennessee,37604,South,JF-15190
+968,CA-2015-155761,2015-12-11,2015-12-11,"Same Day","United States",Houston,Texas,77041,Central,SC-20800
+969,CA-2016-145905,2016-09-18,2016-09-23,"Standard Class","United States",Auburn,Alabama,36830,South,AM-10705
+970,CA-2015-113110,2015-03-19,2015-03-23,"Standard Class","United States","San Bernardino",California,92404,West,BK-11260
+971,CA-2016-168354,2016-09-19,2016-09-21,"First Class","United States",Providence,"Rhode Island",2908,East,RH-19510
+972,US-2017-111241,2017-08-20,2017-08-22,"Second Class","United States",Fresno,California,93727,West,GM-14500
+973,CA-2015-114237,2015-03-13,2015-03-15,"First Class","United States",Seattle,Washington,98103,West,MC-17275
+974,CA-2016-113516,2016-09-08,2016-09-10,"Second Class","United States",Lancaster,California,93534,West,VM-21685
+975,CA-2015-117961,2015-11-26,2015-11-30,"Standard Class","United States",Leominster,Massachusetts,1453,East,GP-14740
+976,CA-2016-128923,2016-12-09,2016-12-13,"Standard Class","United States","Fort Worth",Texas,76106,Central,GB-14530
+977,CA-2017-162481,2017-09-25,2017-09-29,"Standard Class","United States",Rochester,Minnesota,55901,Central,CT-11995
+978,CA-2015-119214,2015-01-23,2015-01-27,"Standard Class","United States",Bozeman,Montana,59715,West,CW-11905
+979,CA-2015-122287,2015-06-18,2015-06-23,"Standard Class","United States",Peoria,Arizona,85345,West,SN-20560
+980,CA-2015-104493,2015-10-02,2015-10-08,"Standard Class","United States","San Diego",California,92105,West,EB-13705
+981,US-2017-158946,2017-11-18,2017-11-23,"Standard Class","United States",Lakewood,Ohio,44107,East,JW-15220
+982,CA-2014-129168,2014-08-17,2014-08-23,"Standard Class","United States",Houston,Texas,77095,Central,KB-16585
+983,CA-2016-131835,2016-07-17,2016-07-21,"Standard Class","United States","Perth Amboy","New Jersey",8861,East,MC-17590
+984,CA-2015-142237,2015-07-11,2015-07-13,"First Class","United States",Philadelphia,Pennsylvania,19134,East,CK-12595
+985,CA-2016-136434,2016-12-01,2016-12-07,"Standard Class","United States",Richmond,Indiana,47374,Central,RD-19480
+986,CA-2017-120376,2017-12-22,2017-12-25,"First Class","United States",Detroit,Michigan,48227,Central,TP-21130
+987,CA-2014-106439,2014-10-31,2014-11-04,"Standard Class","United States","Los Angeles",California,90049,West,GG-14650
+988,CA-2015-133452,2015-04-13,2015-04-19,"Standard Class","United States",Pomona,California,91767,West,ZC-21910
+989,CA-2016-146521,2016-07-21,2016-07-23,"Second Class","United States",Philadelphia,Pennsylvania,19134,East,CC-12610
+990,US-2017-110996,2017-11-20,2017-11-25,"Standard Class","United States",Ontario,California,91761,West,KA-16525
+991,CA-2016-129693,2016-11-26,2016-12-02,"Standard Class","United States",Seattle,Washington,98105,West,TC-20980
+992,CA-2017-122504,2017-11-07,2017-11-12,"Second Class","United States",Brentwood,California,94513,West,DB-13270
+993,CA-2014-131051,2014-12-01,2014-12-05,"Standard Class","United States","San Francisco",California,94122,West,TR-21325
+994,CA-2017-140676,2017-09-12,2017-09-15,"First Class","United States",Baltimore,Maryland,21215,East,BF-11080
+995,CA-2015-120103,2015-12-24,2015-12-29,"Standard Class","United States",Phoenix,Arizona,85023,West,MS-17365
+996,CA-2017-104647,2017-02-23,2017-03-01,"Standard Class","United States","Los Angeles",California,90008,West,CK-12595
+997,CA-2014-110352,2014-11-23,2014-11-29,"Standard Class","United States",Houston,Texas,77036,Central,ED-13885
+998,CA-2016-140501,2016-06-23,2016-06-28,"Standard Class","United States","New York City","New York",10009,East,IM-15070
+999,CA-2015-139290,2015-10-26,2015-10-30,"Standard Class","United States","Rancho Cucamonga",California,91730,West,MY-17380
+1000,CA-2017-166142,2017-07-15,2017-07-19,"Standard Class","United States",Wilmington,Delaware,19805,East,MM-17260

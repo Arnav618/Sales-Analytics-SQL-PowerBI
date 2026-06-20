@@ -31,6 +31,7 @@ SELECT
 FROM raw_sales;
 
 -- Finding:
+-- Date range: 2014-01-04 to 2017-12-30
 -- No significant null value or date quality issues were identified.
 -- Further investigation focused on duplicate-looking records
 -- and identifier consistency.
@@ -54,7 +55,7 @@ AND rs.product_id = dup.product_id
 ORDER BY order_id, customer_id, product_id;
 
 -- Finding:
--- Repeated order-product combinations were identified.
+-- 8 order-product combinations were identified.
 -- Sales, quantity, and profit values differed across records,
 -- therefore these rows were retained as distinct transaction lines
 -- rather than treated as duplicate records.
@@ -76,7 +77,7 @@ GROUP BY product_id
 HAVING COUNT(DISTINCT product_name) > 1;
 
 -- Finding:
--- Some product_ids were associated with multiple product names,
+-- 30 product_ids were associated with multiple product names,
 -- indicating source data inconsistencies.
 
 -- =====================================================
@@ -95,5 +96,5 @@ GROUP BY product_name
 HAVING COUNT(DISTINCT product_id) > 1;
 
 -- Finding:
--- Several products were associated with multiple product IDs,
+-- 16 products were associated with multiple product IDs,
 -- indicating identifier inconsistency within the source dataset.

@@ -334,3 +334,32 @@ Highlighted measures include:
 * Data Analytics
 
 ---
+## Repository Structure
+
+```text
+Superstore-Sales-Analytics/
+│
+├── sql/
+│   ├── 01_schema_exploration.sql
+│   ├── 02_data_model_design.sql
+│   ├── 03_data_cleaning.sql
+│   └── 04_business_analysis.sql
+│
+├── powerbi/
+│   ├── Superstore_Dashboard.pbix
+│   └── dax_measures.md
+│
+├── images/
+│   ├── star_schema.png
+│   ├── sales_dashboard.gif
+│   ├── dashboard_cross_filtering.gif
+│   └── dashboard_screenshots/
+│
+└── README.md
+```
+
+## Dataset
+
+Dataset: Superstore Sales Data
+Period: 2014 to 2017
+Records: 9,994 transactions

@@ -9,6 +9,17 @@ The objective was to transform raw transactional data into a business-ready anal
 
 ---
 
+## Executive Summary
+
+Analysis of 9,694 Superstore transactions using SQL and Power BI revealed:
+
+- Discounts above 20% were the primary driver of profit erosion.
+- Tables and Bookcases generated significant revenue but consistently produced losses.
+- A small group of customers contributed a disproportionate share of total profit.
+- Regional sales performance did not always align with profitability, highlighting margin inefficiencies.
+
+---
+
 ## Data Challenges & Solutions
 
 ### Challenge 1: Repeated Order-Product Records
@@ -219,12 +230,10 @@ The project includes analytical SQL queries covering:
 
 ## Key Business Insights
 
-* Discounts above 20% significantly reduce profitability.
 * Tables and Bookcases are the largest loss-making subcategories.
 * A small number of products account for a disproportionate share of total losses.
 * Profitability varies considerably across regions.
 * A small group of customers contributes a large share of overall profit.
-* Sales growth does not always translate into profit growth.
 * A few products drive the majority of category revenue.
 
 ---
@@ -255,10 +264,9 @@ all visuals across every dashboard page simultaneously.*
 
 ---
 
-![DashBoard Screenshot](/images)
+📁 [Dashboard Screenshots](images/dashboard_screenshots/)
 
-*Full dashboard walkthrough showing all 4 pages images,
-interactive slicers and dynamic KPI cards.*
+*Full dashboard walkthrough showing all 4 pages images.*
 
 ### Dashboard Pages
 
@@ -362,4 +370,4 @@ Superstore-Sales-Analytics/
 
 Dataset: Superstore Sales Data
 Period: 2014 to 2017
-Records: 9,994 transactions
+Records: 9,694 transactions

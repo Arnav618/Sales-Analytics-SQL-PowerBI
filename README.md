@@ -264,7 +264,7 @@ all visuals across every dashboard page simultaneously.*
 
 ---
 
-📁 [Dashboard Screenshots](images/dashboard_screenshots/)
+📁 [Dashboard Screenshots](images/)
 
 *Full dashboard walkthrough showing all 4 pages images.*
 

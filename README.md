@@ -25,7 +25,8 @@ All transaction records were preserved to maintain transaction-level accuracy an
 
 ---
 
-Challenge 2: Product ID Mapping Inconsistency
+### Challenge 2: Product ID Mapping Inconsistency
+
 During data exploration, 30 product IDs were found to be associated with more than one distinct product name.
 Investigation Result
 
@@ -36,7 +37,8 @@ A products dimension table was created with an auto-incremented surrogate key. P
 
 ---
 
-Challenge 3: Multiple IDs Assigned to the Same Product Name
+### Challenge 3: Multiple IDs Assigned to the Same Product Name
+
 During data exploration, 16 product names were found to be associated with more than one distinct product ID.
 Investigation Result
 

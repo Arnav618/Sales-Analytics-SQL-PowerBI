@@ -28,10 +28,12 @@ All transaction records were preserved to maintain transaction-level accuracy an
 ### Challenge 2: Product ID Mapping Inconsistency
 
 During data exploration, 30 product IDs were found to be associated with more than one distinct product name.
-Investigation Result
+
+**Investigation Result**
 
 Upon inspection, the mapped names were confirmed to be genuinely different products — for example, product ID FUR-CH-10001146 was associated with both "Global Task Chair, Black" and "Global Value Mid-Back Manager's Chair, Gray" — two entirely distinct items sharing one source ID. This was a keying deficiency in the source system, not a naming error. Raw data was left untouched as per data integrity principles.
-Solution
+
+**Solution**
 
 A products dimension table was created with an auto-incremented surrogate key. Products were mapped by joining on both product_id and product_name as a composite key to sales table, ensuring each genuinely distinct product received its own stable identifier without modifying the raw source data.
 
@@ -40,10 +42,12 @@ A products dimension table was created with an auto-incremented surrogate key. P
 ### Challenge 3: Multiple IDs Assigned to the Same Product Name
 
 During data exploration, 16 product names were found to be associated with more than one distinct product ID.
-Investigation Result
+
+**Investigation Result**
 
 Upon inspection, products sharing the same name were confirmed to be genuinely different items — for example, "Staples" appeared under 10 different product IDs (OFF-FA-10000735, OFF-FA-10001229, and others), each representing a distinct staple product variant sold under the same generic name. This reflected a source system limitation, not duplicate data. Raw data was left untouched as per data integrity principles.
-Solution
+
+**Solution**
 
 A products dimension table was created with an auto-incremented surrogate key. By joining on both product_id and product_name as a composite key to sales table, each unique product combination was correctly treated as a distinct entry, resolving the identifier ambiguity without altering the original data.
 

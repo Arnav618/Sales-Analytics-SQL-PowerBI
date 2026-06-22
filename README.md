@@ -13,7 +13,7 @@ The objective was to transform raw transactional data into a business-ready anal
 
 ### Challenge 1: Repeated Order-Product Records
 
-During data exploration, multiple records were found for the same Order ID and Product ID combination.
+During data exploration, 8 records combinations were found for the same Order ID and Product ID combination.
 
 **Investigation Result**
 
@@ -25,17 +25,29 @@ All transaction records were preserved to maintain transaction-level accuracy an
 
 ---
 
-### Challenge 2: Product Identifier Inconsistencies
+Challenge 2: Product ID Mapping Inconsistency
+During data exploration, 30 product IDs were found to be associated with more than one distinct product name.
+Investigation Result
 
-Product identifiers were not always sufficient for uniquely identifying products.
+Upon inspection, the mapped names were confirmed to be genuinely different products — for example, product ID FUR-CH-10001146 was associated with both "Global Task Chair, Black" and "Global Value Mid-Back Manager's Chair, Gray" — two entirely distinct items sharing one source ID. This was a keying deficiency in the source system, not a naming error. Raw data was left untouched as per data integrity principles.
+Solution
 
-**Solution**
-
-Product mapping was performed using both Product ID and Product Name to ensure accurate product assignment during fact table loading.
+A products dimension table was created with an auto-incremented surrogate key. Products were mapped by joining on both product_id and product_name as a composite key to sales table, ensuring each genuinely distinct product received its own stable identifier without modifying the raw source data.
 
 ---
 
-### Challenge 3: Transactional Redundancy
+Challenge 3: Multiple IDs Assigned to the Same Product Name
+During data exploration, 16 product names were found to be associated with more than one distinct product ID.
+Investigation Result
+
+Upon inspection, products sharing the same name were confirmed to be genuinely different items — for example, "Staples" appeared under 10 different product IDs (OFF-FA-10000735, OFF-FA-10001229, and others), each representing a distinct staple product variant sold under the same generic name. This reflected a source system limitation, not duplicate data. Raw data was left untouched as per data integrity principles.
+Solution
+
+A products dimension table was created with an auto-incremented surrogate key. By joining on both product_id and product_name as a composite key to sales table, each unique product combination was correctly treated as a distinct entry, resolving the identifier ambiguity without altering the original data.
+
+---
+
+### Challenge 4: Transactional Redundancy
 
 The raw dataset contained repeated customer, product, and geographic information across transactions.
 
@@ -45,7 +57,7 @@ A Star Schema was designed to separate Customers, Products, Orders, and Sales in
 
 ---
 
-### Challenge 4: Data Integrity Validation
+### Challenge 5: Data Integrity Validation
 
 Data quality needed to be verified after loading into the analytical model.
 

@@ -1,5 +1,6 @@
 # Superstore Sales Analytics | SQL + Power BI
 
+
 ## Project Overview
 
 This project analyzes retail sales data from the Superstore dataset using SQL and Power BI.
@@ -136,7 +137,8 @@ A Star Schema was designed to support scalable analytical reporting.
 * Surrogate Keys
 * Fact & Dimension Modeling
 
-*(Insert Star Schema image here)*
+### Star Schema
+![Star Schema](images/05_Data_Model.png)
 
 > Full schema design:
 > [02_data_model_design.sql](sql/02_data_model_design.sql)
@@ -211,33 +213,55 @@ The project includes analytical SQL queries covering:
 
 ## Power BI Dashboard
 
-The SQL model was connected to Power BI to create an interactive analytical dashboard.
+The SQL star schema was connected to Power BI to build an
+interactive dashboard for analyzing sales, profitability,
+customers, products, and regional performance.
+
+---
+
+### Dashboard Walkthrough
+
+![Dashboard Overview](images/sales_dashboard.gif)
+
+*Full dashboard walkthrough showing interactive slicers,
+dynamic KPI cards, and cross-page navigation.*
+
+---
+
+### Cross-Page Filtering
+
+![Cross Filtering](images/dashboard_cross_filtering.gif)
+
+*Region selection on Overview page automatically filters
+all visuals across every dashboard page simultaneously.*
+
+---
+
+![DashBoard Screenshot](/images)
+
+*Full dashboard walkthrough showing all 4 pages images,
+interactive slicers and dynamic KPI cards.*
 
 ### Dashboard Pages
 
-| Page                | Description                                 |
-| ------------------- | ------------------------------------------- |
-| Executive Overview  | Company-wide KPIs and performance summary   |
-| Product Analysis    | Category and subcategory profitability      |
-| Customer Analysis   | Customer segments and top customer insights |
-| Geographic Analysis | Regional and state-level performance        |
+| Page | Description |
+|------|-------------|
+| Executive Overview | Company-wide KPIs and performance summary |
+| Product Analysis | Category and subcategory profitability |
+| Customer Analysis | Customer segments and top customer insights |
+| Geographic Analysis | Regional and state-level performance |
 
 ### Dashboard Features
 
-* Interactive slicers
-* Dynamic KPI cards
-* Regional analysis
-* Customer segmentation
-* Product profitability tracking
-* Discount impact analysis
-* Year-over-Year trends
-* Drill-down capabilities
-
-*(Insert dashboard GIF here)*
-
-*(Insert dashboard screenshots here)*
+- Interactive slicers with cross-page sync
+- Dynamic KPI cards with month-over-month comparison
+- Discount impact analysis
+- Year-over-Year and Month-over-Month trends
+- Drill-down from region to state to city
+- Dynamic insight generation via DAX
 
 ---
+
 
 ## DAX Measures
 

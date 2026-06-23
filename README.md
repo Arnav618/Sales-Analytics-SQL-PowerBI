@@ -382,7 +382,10 @@ Superstore-Sales-Analytics/
 ```
 
 ## Dataset
-
 Dataset: Superstore Sales Data
+
 Period: 2014 to 2017
+
 Records: 9,694 transactions
+
+Source: [Kaggle]

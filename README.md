@@ -230,12 +230,27 @@ The project includes analytical SQL queries covering:
 
 ## Key Business Insights
 
-* Tables and Bookcases are the largest loss-making subcategories.
-* A small number of products account for a disproportionate share of total losses.
-* Profitability varies considerably across regions.
-* A small group of customers contributes a large share of overall profit.
-* A few products drive the majority of category revenue.
+### Profitability
+- Discounts above 20% consistently generated negative profit margins.
+- Tables and Bookcases were the largest loss-making subcategories.
+- Products with higher discount levels consistently generated lower profit margins.
+- A small number of products accounted for a disproportionate share of total losses.
 
+### Customers
+- A small group of customers generated a significant share of total profit.
+- Customer segments differed considerably in profitability.
+
+### Geography
+- Profitability varied significantly across regions.
+- Some regions generated strong sales but comparatively lower profits.
+
+### Growth
+- Sales growth did not always translate into equivalent profit growth.
+- Clear seasonal patterns were identified in monthly performance trends.
+
+### Products
+- A small number of products drove the majority of category revenue.
+- Product performance varied substantially across categories and subcategories.
 ---
 
 ## Power BI Dashboard

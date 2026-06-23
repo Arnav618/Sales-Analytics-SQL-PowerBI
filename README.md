@@ -24,11 +24,13 @@ Analysis of 9,694 Superstore transactions using SQL and Power BI revealed:
 
 ### Challenge 1: Repeated Order-Product Records
 
-During data exploration, 8 records combinations were found for the same Order ID and Product ID combination.
+During data exploration, 16 records across 8 (Order ID, Product ID) 
+pairs were found sharing the same Order ID and Product ID combination.
 
 **Investigation Result**
 
-These records contained different sales, profit, and quantity values, indicating valid split shipments rather than duplicate transactions.
+These records contained different sales, profit, and quantity values, 
+indicating valid split shipments rather than duplicate transactions.
 
 **Solution**
 

@@ -55,7 +55,8 @@ AND rs.product_id = dup.product_id
 ORDER BY order_id, customer_id, product_id;
 
 -- Finding:
--- 8 order-product combinations were identified.
+-- During data exploration, 16 records across 8 (Order ID, Product ID) 
+-- pairs were found sharing the same Order ID and Product ID combination.
 -- Sales, quantity, and profit values differed across records,
 -- therefore these rows were retained as distinct transaction lines
 -- rather than treated as duplicate records.

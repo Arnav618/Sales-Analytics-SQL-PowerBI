@@ -42,6 +42,12 @@ All transaction records were preserved to maintain transaction-level accuracy an
 
 During data exploration, 30 product IDs were found to be associated with more than one distinct product name.
 
+#### Investigation Evidence
+
+![Product ID linked to multiple product names](images/product_id_anomaly.png)
+
+*Example showing a single product ID associated with multiple distinct product names in the source system.*
+
 **Investigation Result**
 
 Upon inspection, the mapped names were confirmed to be genuinely different products — for example, product ID FUR-CH-10001146 was associated with both "Global Task Chair, Black" and "Global Value Mid-Back Manager's Chair, Gray" — two entirely distinct items sharing one source ID. This was a keying deficiency in the source system, not a naming error. Raw data was left untouched as per data integrity principles.
@@ -56,9 +62,15 @@ A products dimension table was created with an auto-incremented surrogate key. P
 
 During data exploration, 16 product names were found to be associated with more than one distinct product ID.
 
+#### Investigation Evidence
+
+![Product name linked to multiple product IDs](images/product_name_anomaly.png)
+
+*Example showing the same product name associated with multiple product IDs, indicating naming ambiguity in the source system.*
+
 **Investigation Result**
 
-Upon inspection, products sharing the same name were confirmed to be genuinely different items — for example, "Staples" appeared under 10 different product IDs (OFF-FA-10000735, OFF-FA-10001229, and others), each representing a distinct staple product variant sold under the same generic name. This reflected a source system limitation, not duplicate data. Raw data was left untouched as per data integrity principles.
+Upon inspection, products sharing the same name were confirmed to be genuinely different items — for example, "Staple envelope" appeared under 9 different product IDs , each representing a distinct staple product variant sold under the same generic name. This reflected a source system limitation, not duplicate data. Raw data was left untouched as per data integrity principles.
 
 **Solution**
 
